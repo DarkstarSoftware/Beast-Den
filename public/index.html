@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beast Den</title>
+<link rel="icon" type="image/png" href="brand/favicon.png">
+<script src="theme.js"></script>
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="boot"><div class="boot-fire"></div></div>
+
+<main id="onboard" hidden>
+  <div class="ob-card"><div id="obBrand"></div><div id="obBody"></div></div>
+</main>
+
+<div id="shell" hidden>
+  <nav id="nav" aria-label="Sections"></nav>
+  <div id="main">
+    <header id="bar">
+      <h2 id="barTitle"></h2>
+      <div class="bar-right">
+        <div class="fire-meter" id="fireMeter" title="The Den fire: every chat, game, photo and check-in keeps it lit"></div>
+        <button class="me-chip" id="meChip" title="Profile and settings" aria-haspopup="dialog"></button>
+      </div>
+    </header>
+    <section id="view"></section>
+  </div>
+  <aside id="rail"></aside>
+</div>
+
+<div id="toasts"></div>
+<canvas id="confetti"></canvas>
+<script src="fire.js"></script>
+<script src="icons.js"></script>
+<script src="den.js"></script>
+<script src="modules/lobby.js"></script>
+<script src="modules/trivia.js"></script>
+<script src="modules/games.js"></script>
+<script src="modules/coffee.js"></script>
+<script src="modules/wall.js"></script>
+<script src="modules/quests.js"></script>
+<script src="modules/arena.js"></script>
+<script src="start.js"></script>
+</body>
+</html>

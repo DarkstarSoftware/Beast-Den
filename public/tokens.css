@@ -1,0 +1,60 @@
+/* Beast Code design tokens. Everything visual in style.css reads from these variables. */
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 100 900; font-display: swap; src: url("fonts/inter-latin-wght-normal.woff2") format("woff2-variations"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 100 900; font-display: swap; src: url("fonts/inter-latin-ext-wght-normal.woff2") format("woff2-variations"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+:root {
+  /* brand */
+  --brand-50: #F0FBFC; --brand-100: #DDF6F9; --brand-200: #B9EBF2; --brand-300: #79D5E5; --brand-400: #30B9D4;
+  --brand-500: #00A0C6; --brand-600: #007F9E; --brand-700: #06617C; --brand-800: #073F55; --brand-900: #062638;
+  /* neutrals */
+  --neutral-50: #F7F8F8; --neutral-100: #EFF1F2; --neutral-200: #DFE2E4; --neutral-300: #C8CCCF; --neutral-400: #A1A7AB;
+  --neutral-500: #747D83; --neutral-600: #586168; --neutral-700: #3D4449; --neutral-800: #292E32; --neutral-900: #1B1F22; --neutral-950: #111416; --white: #FFFFFF;
+  /* semantic surfaces and text */
+  --surface: #FFFFFF; --background-page: #F7F8F8; --background-surface: #FFFFFF; --background-subtle: #EFF1F2;
+  --border-default: #DFE2E4; --border-strong: #C8CCCF;
+  --text-primary: #1B1F22; --text-secondary: #586168; --text-muted: #747D83; --text-disabled: #A1A7AB;
+  /* morale accents */
+  --accent-green: #22A06B; --accent-green-light: #DCF4E8; --accent-purple: #7C5CFC; --accent-purple-light: #EEE9FF;
+  --accent-orange: #E96F3D; --accent-orange-light: #FCE8DE; --accent-gold: #FFB020; --accent-gold-light: #FFF3D6;
+  --accent-pink: #D94F7D; --accent-pink-light: #FCE7EF; --accent-blue: #4278F5; --accent-blue-light: #E5EDFF;
+  /* culture categories (foreground on tinted background) */
+  --cat-howdy-bg: #DCF4E8; --cat-howdy-fg: #176B4A; --cat-relentless-bg: #FCE8DE; --cat-relentless-fg: #A84320;
+  --cat-manageable-bg: #E5EDFF; --cat-manageable-fg: #2857C5; --cat-less-bg: #EEE9FF; --cat-less-fg: #5C42D6; --cat-beast-bg: #FFF3D6; --cat-beast-fg: #855600;
+  /* status */
+  --success: #14804A; --success-bg: #E7F6EE; --warning: #945500; --warning-bg: #FFF1D6; --error: #C93737; --error-bg: #FCE8E8; --success-fg: #0F6A3D; --error-fg: #A82C2C; /* text-safe variants for use on the tinted status backgrounds (>= 4.5:1) */
+  --info: #1769AA; --info-bg: #E5F1FB;
+  /* typography */
+  --font: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  /* spacing */
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-5: 24px; --space-6: 32px; --space-7: 40px; --space-8: 48px; --space-9: 64px; --space-10: 80px;
+  /* radius */
+  --radius-xs: 4px; --radius-sm: 6px; --radius-md: 8px; --radius-lg: 12px; --radius-xl: 16px; --radius-pill: 999px;
+  /* elevation */
+  --shadow-1: 0 1px 2px rgba(17,20,22,0.06); --shadow-2: 0 4px 12px rgba(17,20,22,0.08); --shadow-3: 0 12px 32px rgba(17,20,22,0.12);
+  /* interaction */
+  --focus-ring: #30B9D4; --t-fast: 150ms ease; --t-med: 200ms ease;
+  --page-pad: 32px; --card-pad: 24px;
+}
+@media (max-width: 1180px) { :root { --page-pad: 24px; } }
+@media (max-width: 720px) { :root { --page-pad: 16px; --card-pad: 16px; } }
+
+/* ---------- dark theme: html[data-theme="dark"] (theme.js resolves "auto" from the system setting) ---------- */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --brand-50: #0B2A33; --brand-100: #0F3947; --brand-200: #145064; --brand-300: #1B7188; --brand-400: #30B9D4;
+  --brand-500: #3CC4DE; --brand-600: #0A8FB3; --brand-700: #7FDCEC; --brand-800: #A6E8F3; --brand-900: #D3F4F9;
+  --neutral-50: #1B1F22; --neutral-100: #23282C; --neutral-200: #30363B; --neutral-300: #444B51; --neutral-400: #6A737A;
+  --neutral-500: #8A9298; --neutral-600: #A9B0B5; --neutral-700: #C8CCCF; --neutral-800: #DFE2E4; --neutral-900: #EEF0F1; --neutral-950: #FFFFFF;
+  --surface: #1B1F22; --background-page: #111416; --background-surface: #1B1F22; --background-subtle: #262B2F;
+  --border-default: #343A3F; --border-strong: #4A5157;
+  --text-primary: #EEF0F1; --text-secondary: #B2B9BE; --text-muted: #939BA1; --text-disabled: #5F676D;
+  --accent-green: #3DBE86; --accent-green-light: #12382A; --accent-purple: #9B83FF; --accent-purple-light: #2A2350;
+  --accent-orange: #F08A5B; --accent-orange-light: #3D2418; --accent-gold: #FFB93D; --accent-gold-light: #3A2E12;
+  --accent-pink: #E8709A; --accent-pink-light: #3D1B29; --accent-blue: #6C97FF; --accent-blue-light: #17264A;
+  --cat-howdy-bg: #12382A; --cat-howdy-fg: #72E3B0; --cat-relentless-bg: #3D2418; --cat-relentless-fg: #FFA17A;
+  --cat-manageable-bg: #17264A; --cat-manageable-fg: #9DB9FF; --cat-less-bg: #2A2350; --cat-less-fg: #BCAAFF; --cat-beast-bg: #3A2E12; --cat-beast-fg: #FFCB6B;
+  --success: #4AD08A; --success-bg: #12382A; --success-fg: #7BE5AE; --warning: #FFC65A; --warning-bg: #3A2E12;
+  --error: #FF7A7A; --error-bg: #3F1B1B; --error-fg: #FFA3A3; --info: #6CB8F0; --info-bg: #14304A;
+  --shadow-1: 0 1px 2px rgba(0,0,0,0.4); --shadow-2: 0 4px 12px rgba(0,0,0,0.45); --shadow-3: 0 12px 32px rgba(0,0,0,0.55);
+  --focus-ring: #5CD0E6;
+}
