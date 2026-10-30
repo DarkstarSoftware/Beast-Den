@@ -1,0 +1,1115 @@
+{
+ "_note": "Real landmark photos for Where in the World. Built by tools/fetch-photos.js. See public/photos/CREDITS.txt.",
+ "photos": [
+  {
+   "id": "photo-paris-france-eiffel-tower",
+   "img": "/photos/paris-france-eiffel-tower.jpg",
+   "label": "Paris, France",
+   "lat": 48.8584,
+   "lon": 2.2945,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-rome-italy-colosseum",
+   "img": "/photos/rome-italy-colosseum.jpg",
+   "label": "Rome, Italy",
+   "lat": 41.8902,
+   "lon": 12.4922,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-agra-india-taj-mahal",
+   "img": "/photos/agra-india-taj-mahal.jpg",
+   "label": "Agra, India",
+   "lat": 27.1751,
+   "lon": 78.0421,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+   "hint": ""
+  },
+  {
+   "id": "photo-sydney-australia-sydney-opera-house",
+   "img": "/photos/sydney-australia-sydney-opera-house.jpg",
+   "label": "Sydney, Australia",
+   "lat": -33.8568,
+   "lon": 151.2153,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-machu-picchu-peru-machu-picchu",
+   "img": "/photos/machu-picchu-peru-machu-picchu.jpg",
+   "label": "Machu Picchu, Peru",
+   "lat": -13.1631,
+   "lon": -72.545,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu%2C_2023_(012).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-grand-canyon-arizona-usa-grand-canyon",
+   "img": "/photos/grand-canyon-arizona-usa-grand-canyon.jpg",
+   "label": "Grand Canyon, Arizona, USA",
+   "lat": 36.1069,
+   "lon": -112.1129,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg",
+   "hint": ""
+  },
+  {
+   "id": "photo-mount-fuji-japan-mount-fuji",
+   "img": "/photos/mount-fuji-japan-mount-fuji.jpg",
+   "label": "Mount Fuji, Japan",
+   "lat": 35.3606,
+   "lon": 138.7274,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-rio-de-janeiro-brazil-christ-the-redeemer-statue",
+   "img": "/photos/rio-de-janeiro-brazil-christ-the-redeemer-statue.jpg",
+   "label": "Rio de Janeiro, Brazil",
+   "lat": -22.9519,
+   "lon": -43.2105,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-new-york-city-usa-statue-of-liberty",
+   "img": "/photos/new-york-city-usa-statue-of-liberty.jpg",
+   "label": "New York City, USA",
+   "lat": 40.6892,
+   "lon": -74.0445,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-london-united-kingdom-big-ben",
+   "img": "/photos/london-united-kingdom-big-ben.jpg",
+   "label": "London, United Kingdom",
+   "lat": 51.5007,
+   "lon": -0.1246,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-giza-egypt-giza-pyramid-complex",
+   "img": "/photos/giza-egypt-giza-pyramid-complex.jpg",
+   "label": "Giza, Egypt",
+   "lat": 29.9792,
+   "lon": 31.1342,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-santorini-greece-santorini",
+   "img": "/photos/santorini-greece-santorini.png",
+   "label": "Santorini, Greece",
+   "lat": 36.3932,
+   "lon": 25.4615,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2011_Dimos_Thiras.png",
+   "hint": ""
+  },
+  {
+   "id": "photo-zermatt-switzerland-matterhorn",
+   "img": "/photos/zermatt-switzerland-matterhorn.jpg",
+   "label": "Zermatt, Switzerland",
+   "lat": 45.9763,
+   "lon": 7.6586,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-petra-jordan-petra",
+   "img": "/photos/petra-jordan-petra.jpg",
+   "label": "Petra, Jordan",
+   "lat": 30.3285,
+   "lon": 35.4444,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG",
+   "hint": ""
+  },
+  {
+   "id": "photo-angkor-wat-cambodia-angkor-wat",
+   "img": "/photos/angkor-wat-cambodia-angkor-wat.jpg",
+   "label": "Angkor Wat, Cambodia",
+   "lat": 13.4125,
+   "lon": 103.867,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-cape-town-south-africa-table-mountain",
+   "img": "/photos/cape-town-south-africa-table-mountain.jpg",
+   "label": "Cape Town, South Africa",
+   "lat": -33.9628,
+   "lon": 18.4098,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-san-francisco-usa-golden-gate-bridge",
+   "img": "/photos/san-francisco-usa-golden-gate-bridge.jpg",
+   "label": "San Francisco, USA",
+   "lat": 37.8199,
+   "lon": -122.4783,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-niagara-falls-canada-and-usa-niagara-falls",
+   "img": "/photos/niagara-falls-canada-and-usa-niagara-falls.jpg",
+   "label": "Niagara Falls, Canada and USA",
+   "lat": 43.0828,
+   "lon": -79.0742,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-chichen-itza-mexico-chichen-itza",
+   "img": "/photos/chichen-itza-mexico-chichen-itza.jpg",
+   "label": "Chichén Itzá, Mexico",
+   "lat": 20.6843,
+   "lon": -88.5678,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-easter-island-chile-easter-island",
+   "img": "/photos/easter-island-chile-easter-island.jpg",
+   "label": "Easter Island, Chile",
+   "lat": -27.1127,
+   "lon": -109.3497,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Easter_Island_5.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-stonehenge-united-kingdom-stonehenge",
+   "img": "/photos/stonehenge-united-kingdom-stonehenge.jpg",
+   "label": "Stonehenge, United Kingdom",
+   "lat": 51.1789,
+   "lon": -1.8262,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-edinburgh-scotland-edinburgh-castle",
+   "img": "/photos/edinburgh-scotland-edinburgh-castle.png",
+   "label": "Edinburgh, Scotland",
+   "lat": 55.9486,
+   "lon": -3.1999,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Crag_and_tail.png",
+   "hint": ""
+  },
+  {
+   "id": "photo-dubai-united-arab-emirates-burj-khalifa",
+   "img": "/photos/dubai-united-arab-emirates-burj-khalifa.jpg",
+   "label": "Dubai, United Arab Emirates",
+   "lat": 25.1972,
+   "lon": 55.2744,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(worlds_tallest_building)_and_the_Dubai_skyline_(25781049892).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-singapore-marina-bay-sands",
+   "img": "/photos/singapore-marina-bay-sands.jpg",
+   "label": "Singapore",
+   "lat": 1.2834,
+   "lon": 103.8607,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_(I).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-great-wall-china-great-wall-of-china",
+   "img": "/photos/great-wall-china-great-wall-of-china.jpg",
+   "label": "Great Wall, China",
+   "lat": 40.4319,
+   "lon": 116.5704,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-istanbul-turkey-hagia-sophia",
+   "img": "/photos/istanbul-turkey-hagia-sophia.jpg",
+   "label": "Istanbul, Turkey",
+   "lat": 41.0086,
+   "lon": 28.9802,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+   "hint": ""
+  },
+  {
+   "id": "photo-moscow-russia-saint-basil-s-cathedral",
+   "img": "/photos/moscow-russia-saint-basil-s-cathedral.jpg",
+   "label": "Moscow, Russia",
+   "lat": 55.7525,
+   "lon": 37.6231,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Saint_Basil's_Cathedral_in_Moscow.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-barcelona-spain-sagrada-familia",
+   "img": "/photos/barcelona-spain-sagrada-familia.jpg",
+   "label": "Barcelona, Spain",
+   "lat": 41.4036,
+   "lon": 2.1744,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-venice-italy-grand-canal-venice",
+   "img": "/photos/venice-italy-grand-canal-venice.jpg",
+   "label": "Venice, Italy",
+   "lat": 45.4408,
+   "lon": 12.3155,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Canal_from_Rialto_to_Ca'Foscari.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-berlin-germany-brandenburg-gate",
+   "img": "/photos/berlin-germany-brandenburg-gate.jpg",
+   "label": "Berlin, Germany",
+   "lat": 52.5163,
+   "lon": 13.3777,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-athens-greece-acropolis-of-athens",
+   "img": "/photos/athens-greece-acropolis-of-athens.jpg",
+   "label": "Athens, Greece",
+   "lat": 37.9715,
+   "lon": 23.7257,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-mount-kilimanjaro-tanzania-mount-kilimanjaro",
+   "img": "/photos/mount-kilimanjaro-tanzania-mount-kilimanjaro.jpg",
+   "label": "Mount Kilimanjaro, Tanzania",
+   "lat": -3.0674,
+   "lon": 37.3556,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-victoria-falls-zambia-and-zimbabwe-victoria-falls",
+   "img": "/photos/victoria-falls-zambia-and-zimbabwe-victoria-falls.jpg",
+   "label": "Victoria Falls, Zambia and Zimbabwe",
+   "lat": -17.9243,
+   "lon": 25.8572,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-uluru-australia-uluru",
+   "img": "/photos/uluru-australia-uluru.jpg",
+   "label": "Uluru, Australia",
+   "lat": -25.3444,
+   "lon": 131.0369,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ULURU.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-milford-sound-new-zealand-milford-sound",
+   "img": "/photos/milford-sound-new-zealand-milford-sound.jpg",
+   "label": "Milford Sound, New Zealand",
+   "lat": -44.6414,
+   "lon": 167.8974,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Milford_Sound_(New_Zealand).JPG",
+   "hint": ""
+  },
+  {
+   "id": "photo-hallstatt-austria-hallstatt",
+   "img": "/photos/hallstatt-austria-hallstatt.jpg",
+   "label": "Hallstatt, Austria",
+   "lat": 47.5622,
+   "lon": 13.6493,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hallstatt_-_Zentrum_.JPG",
+   "hint": ""
+  },
+  {
+   "id": "photo-neuschwanstein-germany-neuschwanstein-castle",
+   "img": "/photos/neuschwanstein-germany-neuschwanstein-castle.jpg",
+   "label": "Neuschwanstein, Germany",
+   "lat": 47.5576,
+   "lon": 10.7498,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-mont-saint-michel-france-mont-saint-michel",
+   "img": "/photos/mont-saint-michel-france-mont-saint-michel.jpg",
+   "label": "Mont-Saint-Michel, France",
+   "lat": 48.636,
+   "lon": -1.5115,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-plitvice-lakes-croatia-plitvice-lakes-national-park",
+   "img": "/photos/plitvice-lakes-croatia-plitvice-lakes-national-park.jpg",
+   "label": "Plitvice Lakes, Croatia",
+   "lat": 44.8654,
+   "lon": 15.582,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:View_in_Plitvice_Lakes_National_Park.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-lake-louise-canada-lake-louise-alberta",
+   "img": "/photos/lake-louise-canada-lake-louise-alberta.jpg",
+   "label": "Lake Louise, Canada",
+   "lat": 51.4254,
+   "lon": -116.1773,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-yosemite-california-usa-yosemite-valley",
+   "img": "/photos/yosemite-california-usa-yosemite-valley.jpg",
+   "label": "Yosemite, California, USA",
+   "lat": 37.7456,
+   "lon": -119.5936,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-yellowstone-usa-old-faithful",
+   "img": "/photos/yellowstone-usa-old-faithful.jpg",
+   "label": "Yellowstone, USA",
+   "lat": 44.4605,
+   "lon": -110.8281,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY%2C_USA)%2C_Old_Faithful_Geyser_--_2022_--_2599.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-mount-rushmore-south-dakota-usa-mount-rushmore",
+   "img": "/photos/mount-rushmore-south-dakota-usa-mount-rushmore.jpg",
+   "label": "Mount Rushmore, South Dakota, USA",
+   "lat": 43.8791,
+   "lon": -103.4591,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-seattle-usa-space-needle",
+   "img": "/photos/seattle-usa-space-needle.jpg",
+   "label": "Seattle, USA",
+   "lat": 47.6205,
+   "lon": -122.3493,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Space_Needle_2011-07-04.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-washington-dc-usa-lincoln-memorial",
+   "img": "/photos/washington-dc-usa-lincoln-memorial.jpg",
+   "label": "Washington, DC, USA",
+   "lat": 38.8893,
+   "lon": -77.0502,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_east_side.JPG",
+   "hint": ""
+  },
+  {
+   "id": "photo-washington-dc-usa-washington-monument",
+   "img": "/photos/washington-dc-usa-washington-monument.jpg",
+   "label": "Washington, DC, USA",
+   "lat": 38.8895,
+   "lon": -77.0353,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Washington_Monument_2022.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-detroit-michigan-usa-renaissance-center",
+   "img": "/photos/detroit-michigan-usa-renaissance-center.jpg",
+   "label": "Detroit, Michigan, USA",
+   "lat": 42.329,
+   "lon": -83.0394,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Renaissance_Center%2C_Detroit%2C_Michigan_from_S_2014-12-07.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-mackinac-bridge-michigan-usa-mackinac-bridge",
+   "img": "/photos/mackinac-bridge-michigan-usa-mackinac-bridge.jpg",
+   "label": "Mackinac Bridge, Michigan, USA",
+   "lat": 45.8174,
+   "lon": -84.7278,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mackinac_Bridge_2022.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-iguazu-falls-argentina-and-brazil-iguazu-falls",
+   "img": "/photos/iguazu-falls-argentina-and-brazil-iguazu-falls.jpg",
+   "label": "Iguazú Falls, Argentina and Brazil",
+   "lat": -25.6953,
+   "lon": -54.4367,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-torres-del-paine-chile-torres-del-paine-national-park",
+   "img": "/photos/torres-del-paine-chile-torres-del-paine-national-park.jpg",
+   "label": "Torres del Paine, Chile",
+   "lat": -50.9423,
+   "lon": -73.4068,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Torres_del_Paine_y_cuernos_del_Paine%2C_montaje.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-salar-de-uyuni-bolivia-salar-de-uyuni",
+   "img": "/photos/salar-de-uyuni-bolivia-salar-de-uyuni.jpg",
+   "label": "Salar de Uyuni, Bolivia",
+   "lat": -20.1338,
+   "lon": -67.4891,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Salar_Uyuni_au01.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-ha-long-bay-vietnam-ha-long-bay",
+   "img": "/photos/ha-long-bay-vietnam-ha-long-bay.jpg",
+   "label": "Ha Long Bay, Vietnam",
+   "lat": 20.9101,
+   "lon": 107.1839,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-beijing-china-forbidden-city",
+   "img": "/photos/beijing-china-forbidden-city.jpg",
+   "label": "Beijing, China",
+   "lat": 39.9163,
+   "lon": 116.3972,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-kuala-lumpur-malaysia-petronas-towers",
+   "img": "/photos/kuala-lumpur-malaysia-petronas-towers.jpg",
+   "label": "Kuala Lumpur, Malaysia",
+   "lat": 3.1579,
+   "lon": 101.7116,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(cropped)_2.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-dubrovnik-croatia-dubrovnik",
+   "img": "/photos/dubrovnik-croatia-dubrovnik.jpg",
+   "label": "Dubrovnik, Croatia",
+   "lat": 42.6507,
+   "lon": 18.0944,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-prague-czech-republic-charles-bridge",
+   "img": "/photos/prague-czech-republic-charles-bridge.jpg",
+   "label": "Prague, Czech Republic",
+   "lat": 50.0865,
+   "lon": 14.4114,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-geirangerfjord-norway-geirangerfjord",
+   "img": "/photos/geirangerfjord-norway-geirangerfjord.jpg",
+   "label": "Geirangerfjord, Norway",
+   "lat": 62.1049,
+   "lon": 7.2059,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Geirangerfjord_.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-cliffs-of-moher-ireland-cliffs-of-moher",
+   "img": "/photos/cliffs-of-moher-ireland-cliffs-of-moher.jpg",
+   "label": "Cliffs of Moher, Ireland",
+   "lat": 52.9715,
+   "lon": -9.4309,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cliffs-Of-Moher-OBriens-From-South.JPG",
+   "hint": ""
+  },
+  {
+   "id": "photo-giant-s-causeway-northern-ireland-giant-s-causeway",
+   "img": "/photos/giant-s-causeway-northern-ireland-giant-s-causeway.jpg",
+   "label": "Giant's Causeway, Northern Ireland",
+   "lat": 55.2408,
+   "lon": -6.5116,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Causeway-code_poet-4.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-cappadocia-turkey-cappadocia",
+   "img": "/photos/cappadocia-turkey-cappadocia.jpg",
+   "label": "Cappadocia, Turkey",
+   "lat": 38.6431,
+   "lon": 34.8289,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cappadocia_balloon_trip%2C_Ortahisar_Castle_(11893715185).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-pamukkale-turkey-pamukkale",
+   "img": "/photos/pamukkale-turkey-pamukkale.jpg",
+   "label": "Pamukkale, Turkey",
+   "lat": 37.9203,
+   "lon": 29.1211,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pamukkale%2C_Denizli_2026_68.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-wadi-rum-jordan-wadi-rum",
+   "img": "/photos/wadi-rum-jordan-wadi-rum.jpg",
+   "label": "Wadi Rum, Jordan",
+   "lat": 29.5759,
+   "lon": 35.4199,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum%2C_Jordan.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-sigiriya-sri-lanka-sigiriya",
+   "img": "/photos/sigiriya-sri-lanka-sigiriya.jpg",
+   "label": "Sigiriya, Sri Lanka",
+   "lat": 7.957,
+   "lon": 80.7603,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sigiriya_(141688197).jpeg",
+   "hint": ""
+  },
+  {
+   "id": "photo-bagan-myanmar-bagan",
+   "img": "/photos/bagan-myanmar-bagan.jpg",
+   "label": "Bagan, Myanmar",
+   "lat": 21.1717,
+   "lon": 94.8585,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bagan%2C_Burma.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-bora-bora-french-polynesia-bora-bora",
+   "img": "/photos/bora-bora-french-polynesia-bora-bora.jpg",
+   "label": "Bora Bora, French Polynesia",
+   "lat": -16.5004,
+   "lon": -151.7415,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bora_Bora_ISS006.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-antarctica-antarctica",
+   "img": "/photos/antarctica-antarctica.jpg",
+   "label": "Antarctica",
+   "lat": -77.8419,
+   "lon": 166.6863,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Vinson_from_NW_at_Vinson_Plateau_by_Christian_Stangl_(flickr).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-pisa-italy-leaning-tower-of-pisa",
+   "img": "/photos/pisa-italy-leaning-tower-of-pisa.jpg",
+   "label": "Pisa, Italy",
+   "lat": 43.723,
+   "lon": 10.3966,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-florence-italy-florence-cathedral",
+   "img": "/photos/florence-italy-florence-cathedral.jpg",
+   "label": "Florence, Italy",
+   "lat": 43.7731,
+   "lon": 11.256,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-paris-france-louvre",
+   "img": "/photos/paris-france-louvre.jpg",
+   "label": "Paris, France",
+   "lat": 48.8606,
+   "lon": 2.3376,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-london-united-kingdom-tower-bridge",
+   "img": "/photos/london-united-kingdom-tower-bridge.jpg",
+   "label": "London, United Kingdom",
+   "lat": 51.5055,
+   "lon": -0.0754,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_at_Dawn.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-versailles-france-palace-of-versailles",
+   "img": "/photos/versailles-france-palace-of-versailles.jpg",
+   "label": "Versailles, France",
+   "lat": 48.8049,
+   "lon": 2.1204,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Versailles_Palace_(FRA)_%E2%80%93_Equestrian_Olympic_Venue.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-granada-spain-alhambra",
+   "img": "/photos/granada-spain-alhambra.jpg",
+   "label": "Granada, Spain",
+   "lat": 37.176,
+   "lon": -3.5881,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-meteora-greece-meteora",
+   "img": "/photos/meteora-greece-meteora.jpg",
+   "label": "Meteora, Greece",
+   "lat": 39.7217,
+   "lon": 21.6306,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meteora's_monastery_2.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-istanbul-turkey-sultan-ahmed-mosque",
+   "img": "/photos/istanbul-turkey-sultan-ahmed-mosque.jpg",
+   "label": "Istanbul, Turkey",
+   "lat": 41.0054,
+   "lon": 28.9768,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Istanbul_(34223582516)_(cropped).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-paro-bhutan-paro-taktsang",
+   "img": "/photos/paro-bhutan-paro-taktsang.jpg",
+   "label": "Paro, Bhutan",
+   "lat": 27.4919,
+   "lon": 89.3637,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Paro_Taktsang%2C_Bhutan_(edited).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-borobudur-indonesia-borobudur",
+   "img": "/photos/borobudur-indonesia-borobudur.jpg",
+   "label": "Borobudur, Indonesia",
+   "lat": -7.6079,
+   "lon": 110.2038,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pradaksina.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-bangkok-thailand-wat-arun",
+   "img": "/photos/bangkok-thailand-wat-arun.jpg",
+   "label": "Bangkok, Thailand",
+   "lat": 13.7437,
+   "lon": 100.4888,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-yangon-myanmar-shwedagon-pagoda",
+   "img": "/photos/yangon-myanmar-shwedagon-pagoda.jpg",
+   "label": "Yangon, Myanmar",
+   "lat": 16.7983,
+   "lon": 96.1495,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shwedagon_Pagoda_2017.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-himeji-japan-himeji-castle",
+   "img": "/photos/himeji-japan-himeji-castle.jpg",
+   "label": "Himeji, Japan",
+   "lat": 34.8394,
+   "lon": 134.6939,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Himeji_castle_in_may_2015.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-kyoto-japan-fushimi-inari-taisha",
+   "img": "/photos/kyoto-japan-fushimi-inari-taisha.jpg",
+   "label": "Kyoto, Japan",
+   "lat": 34.9671,
+   "lon": 135.7727,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-seoul-south-korea-gyeongbokgung",
+   "img": "/photos/seoul-south-korea-gyeongbokgung.jpg",
+   "label": "Seoul, South Korea",
+   "lat": 37.5796,
+   "lon": 126.977,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-hoover-dam-nevada-and-arizona-usa-hoover-dam",
+   "img": "/photos/hoover-dam-nevada-and-arizona-usa-hoover-dam.jpg",
+   "label": "Hoover Dam, Nevada and Arizona, USA",
+   "lat": 36.0161,
+   "lon": -114.7377,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2017_Aerial_view_Hoover_Dam_4774.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-arches-national-park-utah-usa-arches-national-park",
+   "img": "/photos/arches-national-park-utah-usa-arches-national-park.jpg",
+   "label": "Arches National Park, Utah, USA",
+   "lat": 38.7331,
+   "lon": -109.5925,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Delicate_arch_sunset.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-zion-national-park-utah-usa-zion-national-park",
+   "img": "/photos/zion-national-park-utah-usa-zion-national-park.jpg",
+   "label": "Zion National Park, Utah, USA",
+   "lat": 37.2982,
+   "lon": -113.0263,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Zion_angels_landing_view.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-monument-valley-arizona-and-utah-usa-monument-valley",
+   "img": "/photos/monument-valley-arizona-and-utah-usa-monument-valley.jpg",
+   "label": "Monument Valley, Arizona and Utah, USA",
+   "lat": 36.998,
+   "lon": -110.0985,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Monument_Valley%2C_Utah%2C_USA_(23611451292).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-page-arizona-usa-antelope-canyon",
+   "img": "/photos/page-arizona-usa-antelope-canyon.jpg",
+   "label": "Page, Arizona, USA",
+   "lat": 36.8619,
+   "lon": -111.3743,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:USA_Antelope-Canyon.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-glacier-national-park-montana-usa-glacier-national-park-u-s",
+   "img": "/photos/glacier-national-park-montana-usa-glacier-national-park-u-s.jpg",
+   "label": "Glacier National Park, Montana, USA",
+   "lat": 48.7596,
+   "lon": -113.787,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mountain_Goat_at_Hidden_Lake.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-denali-alaska-usa-denali",
+   "img": "/photos/denali-alaska-usa-denali.jpg",
+   "label": "Denali, Alaska, USA",
+   "lat": 63.0692,
+   "lon": -151.007,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wonder_Lake_and_Denali.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-perito-moreno-glacier-argentina-perito-moreno-glacier",
+   "img": "/photos/perito-moreno-glacier-argentina-perito-moreno-glacier.jpg",
+   "label": "Perito Moreno Glacier, Argentina",
+   "lat": -50.4967,
+   "lon": -73.1377,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_2023.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-angel-falls-venezuela-angel-falls",
+   "img": "/photos/angel-falls-venezuela-angel-falls.jpg",
+   "label": "Angel Falls, Venezuela",
+   "lat": 5.9701,
+   "lon": -62.5362,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SaltoAngel1.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-lake-titicaca-peru-and-bolivia-lake-titicaca",
+   "img": "/photos/lake-titicaca-peru-and-bolivia-lake-titicaca.jpg",
+   "label": "Lake Titicaca, Peru and Bolivia",
+   "lat": -15.8402,
+   "lon": -69.3333,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake_Titicaca_ESA22522896.jpeg",
+   "hint": ""
+  },
+  {
+   "id": "photo-abu-simbel-egypt-abu-simbel-temples",
+   "img": "/photos/abu-simbel-egypt-abu-simbel-temples.jpg",
+   "label": "Abu Simbel, Egypt",
+   "lat": 22.3372,
+   "lon": 31.6258,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-luxor-egypt-karnak",
+   "img": "/photos/luxor-egypt-karnak.jpg",
+   "label": "Luxor, Egypt",
+   "lat": 25.7188,
+   "lon": 32.6573,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-ngorongoro-crater-tanzania-ngorongoro-conservation-area",
+   "img": "/photos/ngorongoro-crater-tanzania-ngorongoro-conservation-area.jpg",
+   "label": "Ngorongoro Crater, Tanzania",
+   "lat": -3.1618,
+   "lon": 35.5878,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ngorongoro-1001-2.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-chefchaouen-morocco-chefchaouen",
+   "img": "/photos/chefchaouen-morocco-chefchaouen.jpg",
+   "label": "Chefchaouen, Morocco",
+   "lat": 35.1688,
+   "lon": -5.2636,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-okavango-delta-botswana-okavango-delta",
+   "img": "/photos/okavango-delta-botswana-okavango-delta.jpg",
+   "label": "Okavango Delta, Botswana",
+   "lat": -19.2833,
+   "lon": 22.9,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Okavango_Delta%2C_Botswana1.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-sossusvlei-namibia-sossusvlei",
+   "img": "/photos/sossusvlei-namibia-sossusvlei.jpg",
+   "label": "Sossusvlei, Namibia",
+   "lat": -24.7275,
+   "lon": 15.2916,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sossusvlei.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-great-ocean-road-australia-twelve-apostles-victoria",
+   "img": "/photos/great-ocean-road-australia-twelve-apostles-victoria.jpg",
+   "label": "Great Ocean Road, Australia",
+   "lat": -38.6656,
+   "lon": 143.1047,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Twelve_Apostles_2011.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-bondi-beach-australia-bondi-beach",
+   "img": "/photos/bondi-beach-australia-bondi-beach.jpg",
+   "label": "Bondi Beach, Australia",
+   "lat": -33.8915,
+   "lon": 151.2767,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bondi_from_above.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-mount-cook-new-zealand-aoraki-mount-cook",
+   "img": "/photos/mount-cook-new-zealand-aoraki-mount-cook.jpg",
+   "label": "Mount Cook, New Zealand",
+   "lat": -43.595,
+   "lon": 170.1418,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mt_Cook_LC0247.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-matamata-new-zealand-hobbiton-movie-set",
+   "img": "/photos/matamata-new-zealand-hobbiton-movie-set.jpg",
+   "label": "Matamata, New Zealand",
+   "lat": -37.8722,
+   "lon": 175.6832,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Waterhouse_Lake_Front.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-mount-everest-nepal-and-tibet-mount-everest",
+   "img": "/photos/mount-everest-nepal-and-tibet-mount-everest.jpg",
+   "label": "Mount Everest, Nepal and Tibet",
+   "lat": 27.9881,
+   "lon": 86.925,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-dolomites-italy-dolomites",
+   "img": "/photos/dolomites-italy-dolomites.jpg",
+   "label": "Dolomites, Italy",
+   "lat": 46.4102,
+   "lon": 11.844,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Faloria_Cortina_d'Ampezzo_10.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-lofoten-norway-lofoten",
+   "img": "/photos/lofoten-norway-lofoten.jpg",
+   "label": "Lofoten, Norway",
+   "lat": 68.2094,
+   "lon": 13.6126,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-faroe-islands-faroe-islands",
+   "img": "/photos/faroe-islands-faroe-islands.jpg",
+   "label": "Faroe Islands",
+   "lat": 62,
+   "lon": -6.8,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Faroe_stamps_515-517_everyday_life_in_the_viking_age.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-cinque-terre-italy-cinque-terre",
+   "img": "/photos/cinque-terre-italy-cinque-terre.jpg",
+   "label": "Cinque Terre, Italy",
+   "lat": 44.1272,
+   "lon": 9.7108,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cinque_Terre_(Italy%2C_October_2020)_-_24_(50543603956).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-lake-como-italy-lake-como",
+   "img": "/photos/lake-como-italy-lake-como.jpg",
+   "label": "Lake Como, Italy",
+   "lat": 45.987,
+   "lon": 9.2572,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sentiero_del_Viandante_DSC_6340_(14020554463).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-amalfi-coast-italy-amalfi-coast",
+   "img": "/photos/amalfi-coast-italy-amalfi-coast.jpg",
+   "label": "Amalfi Coast, Italy",
+   "lat": 40.634,
+   "lon": 14.6026,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy%2C_October_2020)_-_75_(50558355441).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-black-forest-germany-black-forest",
+   "img": "/photos/black-forest-germany-black-forest.jpg",
+   "label": "Black Forest, Germany",
+   "lat": 48,
+   "lon": 8.2,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Blick_vom_Hohfelsen.jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-brussels-belgium-atomium",
+   "img": "/photos/brussels-belgium-atomium.jpg",
+   "label": "Brussels, Belgium",
+   "lat": 50.8949,
+   "lon": 4.3415,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Atomium_during_civil_twilight_(DSCF1135).jpg",
+   "hint": ""
+  },
+  {
+   "id": "photo-copenhagen-denmark-little-mermaid-statue",
+   "img": "/photos/copenhagen-denmark-little-mermaid-statue.jpg",
+   "label": "Copenhagen, Denmark",
+   "lat": 55.6929,
+   "lon": 12.5993,
+   "credit": "Photo: Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ellen_Price_as_the_Little_Mermaid%2C_Royal_Danish_Ballet%2C_1909.jpg",
+   "hint": ""
+  }
+ ]
+}

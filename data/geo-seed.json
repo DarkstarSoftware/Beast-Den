@@ -1,0 +1,392 @@
+{
+ "_note": "Illustrated postcards used as starter rounds for Where in the World. Employee photos are added in the app.",
+ "seeds": [
+  {
+   "id": "seed-paris",
+   "img": "/postcards/paris.svg",
+   "label": "Paris, France",
+   "lat": 48.8584,
+   "lon": 2.2945,
+   "hint": "An iron lady stands over this river city.",
+   "seed": true
+  },
+  {
+   "id": "seed-giza",
+   "img": "/postcards/giza.svg",
+   "label": "Giza, Egypt",
+   "lat": 29.9792,
+   "lon": 31.1342,
+   "hint": "Stone triangles older than almost anything else you can visit.",
+   "seed": true
+  },
+  {
+   "id": "seed-sydney",
+   "img": "/postcards/sydney.svg",
+   "label": "Sydney, Australia",
+   "lat": -33.8568,
+   "lon": 151.2153,
+   "hint": "Sails on the harbor, a coat hanger bridge behind.",
+   "seed": true
+  },
+  {
+   "id": "seed-fuji",
+   "img": "/postcards/fuji.svg",
+   "label": "Mount Fuji, Japan",
+   "lat": 35.3606,
+   "lon": 138.7274,
+   "hint": "A red gate, cherry blossoms, and a snow cap.",
+   "seed": true
+  },
+  {
+   "id": "seed-rio",
+   "img": "/postcards/rio.svg",
+   "label": "Rio de Janeiro, Brazil",
+   "lat": -22.9519,
+   "lon": -43.2105,
+   "hint": "Arms wide open over a sunny bay.",
+   "seed": true
+  },
+  {
+   "id": "seed-newyork",
+   "img": "/postcards/newyork.svg",
+   "label": "New York City, USA",
+   "lat": 40.7484,
+   "lon": -73.9857,
+   "hint": "A spire in the skyline and a lady with a torch.",
+   "seed": true
+  },
+  {
+   "id": "seed-london",
+   "img": "/postcards/london.svg",
+   "label": "London, United Kingdom",
+   "lat": 51.5007,
+   "lon": -0.1246,
+   "hint": "A famous clock, a red bus, and gray skies.",
+   "seed": true
+  },
+  {
+   "id": "seed-grandcanyon",
+   "img": "/postcards/grandcanyon.svg",
+   "label": "Grand Canyon, USA",
+   "lat": 36.1069,
+   "lon": -112.1129,
+   "hint": "A river carved all of this, slowly.",
+   "seed": true
+  },
+  {
+   "id": "seed-serengeti",
+   "img": "/postcards/serengeti.svg",
+   "label": "Serengeti, Tanzania",
+   "lat": -2.3333,
+   "lon": 34.8333,
+   "hint": "Flat-topped trees and very tall residents.",
+   "seed": true
+  },
+  {
+   "id": "seed-iceland",
+   "img": "/postcards/iceland.svg",
+   "label": "Reykjavik, Iceland",
+   "lat": 64.1466,
+   "lon": -21.9426,
+   "hint": "The sky is the show. Bring a warm hat.",
+   "seed": true
+  },
+  {
+   "id": "seed-machupicchu",
+   "img": "/postcards/machupicchu.svg",
+   "label": "Machu Picchu, Peru",
+   "lat": -13.1631,
+   "lon": -72.545,
+   "hint": "Terraces carved into a cloud-level ridge.",
+   "seed": true
+  },
+  {
+   "id": "seed-taj",
+   "img": "/postcards/taj.svg",
+   "label": "Agra, India",
+   "lat": 27.1751,
+   "lon": 78.0421,
+   "hint": "A white marble monument, perfectly mirrored.",
+   "seed": true
+  },
+  {
+   "id": "seed-santorini",
+   "img": "/postcards/santorini.svg",
+   "label": "Santorini, Greece",
+   "lat": 36.3932,
+   "lon": 25.4615,
+   "hint": "White cubes and blue domes above a caldera.",
+   "seed": true
+  },
+  {
+   "id": "seed-swissalps",
+   "img": "/postcards/swissalps.svg",
+   "label": "Zermatt, Switzerland",
+   "lat": 45.9763,
+   "lon": 7.6586,
+   "hint": "One famously pointy peak. Cows wear bells here.",
+   "seed": true
+  },
+  {
+   "id": "seed-rome",
+   "img": "/postcards/rome.svg",
+   "label": "Rome, Italy",
+   "lat": 41.8902,
+   "lon": 12.4922,
+   "hint": "Gladiators once packed these arches.",
+   "seed": true
+  },
+  {
+   "id": "seed-venice",
+   "img": "/postcards/venice.svg",
+   "label": "Venice, Italy",
+   "lat": 45.4343,
+   "lon": 12.3388,
+   "hint": "The streets are water. The taxis are boats.",
+   "seed": true
+  },
+  {
+   "id": "seed-amsterdam",
+   "img": "/postcards/amsterdam.svg",
+   "label": "Amsterdam, Netherlands",
+   "lat": 52.3676,
+   "lon": 4.9041,
+   "hint": "Narrow gabled houses and more bikes than people.",
+   "seed": true
+  },
+  {
+   "id": "seed-barcelona",
+   "img": "/postcards/barcelona.svg",
+   "label": "Barcelona, Spain",
+   "lat": 41.4036,
+   "lon": 2.1744,
+   "hint": "A basilica that has been under construction for over a century.",
+   "seed": true
+  },
+  {
+   "id": "seed-moscow",
+   "img": "/postcards/moscow.svg",
+   "label": "Moscow, Russia",
+   "lat": 55.7525,
+   "lon": 37.6231,
+   "hint": "Colorful onion domes beside a famous red square.",
+   "seed": true
+  },
+  {
+   "id": "seed-istanbul",
+   "img": "/postcards/istanbul.svg",
+   "label": "Istanbul, Turkey",
+   "lat": 41.0086,
+   "lon": 28.9802,
+   "hint": "A city that sits on two continents.",
+   "seed": true
+  },
+  {
+   "id": "seed-dubai",
+   "img": "/postcards/dubai.svg",
+   "label": "Dubai, United Arab Emirates",
+   "lat": 25.1972,
+   "lon": 55.2744,
+   "hint": "The tallest building on Earth rises out of the desert.",
+   "seed": true
+  },
+  {
+   "id": "seed-singapore",
+   "img": "/postcards/singapore.svg",
+   "label": "Singapore",
+   "lat": 1.2834,
+   "lon": 103.8607,
+   "hint": "A ship seems to sit on top of three towers.",
+   "seed": true
+  },
+  {
+   "id": "seed-greatwall",
+   "img": "/postcards/greatwall.svg",
+   "label": "Great Wall, China",
+   "lat": 40.4319,
+   "lon": 116.5704,
+   "hint": "A wall that follows the ridgelines for thousands of miles.",
+   "seed": true
+  },
+  {
+   "id": "seed-petra",
+   "img": "/postcards/petra.svg",
+   "label": "Petra, Jordan",
+   "lat": 30.3285,
+   "lon": 35.4444,
+   "hint": "A temple carved straight into rose-red cliffs.",
+   "seed": true
+  },
+  {
+   "id": "seed-angkor",
+   "img": "/postcards/angkor.svg",
+   "label": "Angkor Wat, Cambodia",
+   "lat": 13.4125,
+   "lon": 103.867,
+   "hint": "Five stone towers reflected in a moat at sunrise.",
+   "seed": true
+  },
+  {
+   "id": "seed-capetown",
+   "img": "/postcards/capetown.svg",
+   "label": "Cape Town, South Africa",
+   "lat": -33.9628,
+   "lon": 18.4098,
+   "hint": "A flat-topped mountain wears a tablecloth of cloud.",
+   "seed": true
+  },
+  {
+   "id": "seed-goldengate",
+   "img": "/postcards/goldengate.svg",
+   "label": "San Francisco, USA",
+   "lat": 37.8199,
+   "lon": -122.4783,
+   "hint": "A big orange bridge disappears into fog.",
+   "seed": true
+  },
+  {
+   "id": "seed-niagara",
+   "img": "/postcards/niagara.svg",
+   "label": "Niagara Falls, Canada and USA",
+   "lat": 43.0828,
+   "lon": -79.0742,
+   "hint": "A roaring horseshoe of water on a national border.",
+   "seed": true
+  },
+  {
+   "id": "seed-hawaii",
+   "img": "/postcards/hawaii.svg",
+   "label": "Hawaii, USA",
+   "lat": 19.4194,
+   "lon": -155.2885,
+   "hint": "A volcano meets a palm-lined beach.",
+   "seed": true
+  },
+  {
+   "id": "seed-banff",
+   "img": "/postcards/banff.svg",
+   "label": "Banff, Canada",
+   "lat": 51.4254,
+   "lon": -116.1773,
+   "hint": "Turquoise glacier water under craggy peaks.",
+   "seed": true
+  },
+  {
+   "id": "seed-chichenitza",
+   "img": "/postcards/chichenitza.svg",
+   "label": "Chichén Itzá, Mexico",
+   "lat": 20.6843,
+   "lon": -88.5678,
+   "hint": "A stepped pyramid built to track the sun.",
+   "seed": true
+  },
+  {
+   "id": "seed-easterisland",
+   "img": "/postcards/easterisland.svg",
+   "label": "Easter Island, Chile",
+   "lat": -27.1127,
+   "lon": -109.3497,
+   "hint": "Hundreds of giant stone heads watch the ocean.",
+   "seed": true
+  },
+  {
+   "id": "seed-stonehenge",
+   "img": "/postcards/stonehenge.svg",
+   "label": "Stonehenge, United Kingdom",
+   "lat": 51.1789,
+   "lon": -1.8262,
+   "hint": "Giant standing stones on a grassy plain.",
+   "seed": true
+  },
+  {
+   "id": "seed-edinburgh",
+   "img": "/postcards/edinburgh.svg",
+   "label": "Edinburgh, Scotland",
+   "lat": 55.9486,
+   "lon": -3.1999,
+   "hint": "A castle on an extinct volcano, bagpipes included.",
+   "seed": true
+  },
+  {
+   "id": "seed-reef",
+   "img": "/postcards/reef.svg",
+   "label": "Great Barrier Reef, Australia",
+   "lat": -18.2871,
+   "lon": 147.6992,
+   "hint": "You can see this living structure from space.",
+   "seed": true
+  },
+  {
+   "id": "seed-antarctica",
+   "img": "/postcards/antarctica.svg",
+   "label": "Antarctica",
+   "lat": -77.8419,
+   "lon": 166.6863,
+   "hint": "Ice as far as you can see, and very formal residents.",
+   "seed": true
+  },
+  {
+   "id": "seed-norway",
+   "img": "/postcards/norway.svg",
+   "label": "Geirangerfjord, Norway",
+   "lat": 62.1049,
+   "lon": 7.2059,
+   "hint": "A deep blue fjord with tiny red cabins.",
+   "seed": true
+  },
+  {
+   "id": "seed-washingtondc",
+   "img": "/postcards/washingtondc.svg",
+   "label": "Washington, DC, USA",
+   "lat": 38.8895,
+   "lon": -77.0353,
+   "hint": "A tall white obelisk and a domed Capitol.",
+   "seed": true
+  },
+  {
+   "id": "seed-detroit",
+   "img": "/postcards/detroit.svg",
+   "label": "Detroit, Michigan, USA",
+   "lat": 42.3293,
+   "lon": -83.0398,
+   "hint": "The Motor City skyline, with a cluster of round glass towers by the river.",
+   "seed": true
+  },
+  {
+   "id": "seed-yellowstone",
+   "img": "/postcards/yellowstone.svg",
+   "label": "Yellowstone, USA",
+   "lat": 44.4605,
+   "lon": -110.8281,
+   "hint": "A geyser that erupts on a famously regular schedule.",
+   "seed": true
+  },
+  {
+   "id": "seed-everest",
+   "img": "/postcards/everest.svg",
+   "label": "Himalayas, Nepal",
+   "lat": 27.9881,
+   "lon": 86.925,
+   "hint": "The roof of the world, with prayer flags in the wind.",
+   "seed": true
+  },
+  {
+   "id": "seed-borabora",
+   "img": "/postcards/borabora.svg",
+   "label": "Bora Bora, French Polynesia",
+   "lat": -16.5004,
+   "lon": -151.7415,
+   "hint": "Huts on stilts above water so clear you can see the fish.",
+   "seed": true
+  },
+  {
+   "id": "seed-kilimanjaro",
+   "img": "/postcards/kilimanjaro.svg",
+   "label": "Mount Kilimanjaro, Tanzania",
+   "lat": -3.0674,
+   "lon": 37.3556,
+   "hint": "Africa’s tallest peak wears a snowy cap near the equator.",
+   "seed": true
+  }
+ ]
+}

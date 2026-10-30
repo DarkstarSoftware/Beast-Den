@@ -1,0 +1,2480 @@
+{
+ "_note": "Daily trivia asks 20 questions per day, drawn from this list (same 20 for everyone). Add your own: each needs q, four options, answer (0-3 index of the right option), and an optional note. Company lore and 'whose pet is this?' questions work great. Restart the server after editing.",
+ "questions": [
+  {
+   "q": "Which planet is known as the Red Planet?",
+   "options": [
+    "Venus",
+    "Mars",
+    "Mercury",
+    "Jupiter"
+   ],
+   "answer": 1,
+   "note": "Iron oxide on the surface gives Mars its rusty color."
+  },
+  {
+   "q": "How many bits are in a byte?",
+   "options": [
+    "4",
+    "8",
+    "16",
+    "32"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Which element has the chemical symbol Fe?",
+   "options": [
+    "Fluorine",
+    "Fermium",
+    "Iron",
+    "Lead"
+   ],
+   "answer": 2,
+   "note": "Fe comes from the Latin word ferrum."
+  },
+  {
+   "q": "What does HTTP stand for?",
+   "options": [
+    "HyperText Transfer Protocol",
+    "High Transfer Text Process",
+    "Hyperlink Text Transmission Path",
+    "Host Terminal Transfer Protocol"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "In what year did Apollo 11 land humans on the Moon?",
+   "options": [
+    "1965",
+    "1969",
+    "1972",
+    "1975"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is the capital of Australia?",
+   "options": [
+    "Sydney",
+    "Melbourne",
+    "Canberra",
+    "Perth"
+   ],
+   "answer": 2,
+   "note": "Canberra was purpose-built as a compromise between Sydney and Melbourne."
+  },
+  {
+   "q": "Who painted the Mona Lisa?",
+   "options": [
+    "Michelangelo",
+    "Raphael",
+    "Leonardo da Vinci",
+    "Botticelli"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What is the hardest naturally occurring substance?",
+   "options": [
+    "Quartz",
+    "Diamond",
+    "Topaz",
+    "Steel"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Which gas do plants absorb from the air for photosynthesis?",
+   "options": [
+    "Oxygen",
+    "Nitrogen",
+    "Carbon dioxide",
+    "Helium"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What does CPU stand for?",
+   "options": [
+    "Central Processing Unit",
+    "Computer Power Utility",
+    "Core Program Unit",
+    "Central Program Usage"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "Which country gave the Statue of Liberty to the United States?",
+   "options": [
+    "United Kingdom",
+    "France",
+    "Spain",
+    "Italy"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "At sea level, at what temperature in Celsius does water boil?",
+   "options": [
+    "90",
+    "100",
+    "110",
+    "120"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Which river flows through Cairo?",
+   "options": [
+    "Tigris",
+    "Congo",
+    "Nile",
+    "Danube"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What is the chemical symbol for gold?",
+   "options": [
+    "Go",
+    "Gd",
+    "Au",
+    "Ag"
+   ],
+   "answer": 2,
+   "note": "Au comes from the Latin word aurum."
+  },
+  {
+   "q": "How many sides does a hexagon have?",
+   "options": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is the largest living animal?",
+   "options": [
+    "African elephant",
+    "Blue whale",
+    "Giraffe",
+    "Whale shark"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "In federal contracting, what does RFP stand for?",
+   "options": [
+    "Request for Proposal",
+    "Review of Federal Programs",
+    "Required Funding Plan",
+    "Rapid Fulfillment Process"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "In federal IT, what does ATO stand for?",
+   "options": [
+    "Annual Tax Order",
+    "Authority to Operate",
+    "Approved Task Order",
+    "Automated Test Outcome"
+   ],
+   "answer": 1,
+   "note": "An ATO is the formal decision to let a system run in production."
+  },
+  {
+   "q": "What does FAR stand for in federal contracting?",
+   "options": [
+    "Federal Acquisition Regulation",
+    "Fiscal Audit Report",
+    "Financial Authorization Record",
+    "Federal Agency Review"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What does COR stand for on a government contract?",
+   "options": [
+    "Chief Operations Reviewer",
+    "Contracting Officer's Representative",
+    "Contract Oversight Report",
+    "Client Operations Router"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Who created the World Wide Web?",
+   "options": [
+    "Bill Gates",
+    "Steve Jobs",
+    "Tim Berners-Lee",
+    "Vint Cerf"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "Which planet is sixth from the Sun and famous for its rings?",
+   "options": [
+    "Jupiter",
+    "Saturn",
+    "Uranus",
+    "Neptune"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "At what temperature in Fahrenheit does water freeze?",
+   "options": [
+    "0",
+    "16",
+    "32",
+    "50"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "In which US state is the Grand Canyon?",
+   "options": [
+    "Utah",
+    "Nevada",
+    "Colorado",
+    "Arizona"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "What is the main ingredient in guacamole?",
+   "options": [
+    "Avocado",
+    "Lime",
+    "Tomato",
+    "Cucumber"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "How many strings does a standard guitar have?",
+   "options": [
+    "4",
+    "5",
+    "6",
+    "8"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "In computing, what does SSD stand for?",
+   "options": [
+    "Solid State Drive",
+    "Super Speed Disk",
+    "Serial System Device",
+    "Secure Storage Data"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What is the fastest land animal?",
+   "options": [
+    "Pronghorn",
+    "Cheetah",
+    "Greyhound",
+    "Lion"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is 12 times 12?",
+   "options": [
+    "124",
+    "132",
+    "144",
+    "156"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "Which musical instrument has 88 keys?",
+   "options": [
+    "Organ",
+    "Accordion",
+    "Piano",
+    "Harp"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What is the capital of Canada?",
+   "options": [
+    "Toronto",
+    "Ottawa",
+    "Montreal",
+    "Vancouver"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Who created the Linux kernel and the Git version control system?",
+   "options": [
+    "Dennis Ritchie",
+    "Linus Torvalds",
+    "Guido van Rossum",
+    "James Gosling"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is the smallest prime number?",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "note": "Two is also the only even prime."
+  },
+  {
+   "q": "Which ocean lies between Africa and Australia?",
+   "options": [
+    "Atlantic",
+    "Arctic",
+    "Indian",
+    "Southern"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "Which is the longest bone in the human body?",
+   "options": [
+    "Humerus",
+    "Femur",
+    "Tibia",
+    "Spine"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "How many minutes are in a day?",
+   "options": [
+    "1,240",
+    "1,440",
+    "1,640",
+    "2,400"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Which language has the most native speakers worldwide?",
+   "options": [
+    "English",
+    "Spanish",
+    "Mandarin Chinese",
+    "Hindi"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What is the largest planet in our solar system?",
+   "options": [
+    "Saturn",
+    "Jupiter",
+    "Neptune",
+    "Earth"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is the powerhouse of the cell?",
+   "options": [
+    "Golgi apparatus",
+    "Nucleus",
+    "Mitochondria",
+    "Ribosome"
+   ],
+   "answer": 2,
+   "note": "Mitochondria produce most of a cell's usable energy."
+  },
+  {
+   "q": "What is the most abundant gas in Earth's atmosphere?",
+   "options": [
+    "Oxygen",
+    "Carbon dioxide",
+    "Argon",
+    "Nitrogen"
+   ],
+   "answer": 3,
+   "note": "About 78 percent of the air is nitrogen."
+  },
+  {
+   "q": "Which blood type is the universal donor for red blood cells?",
+   "options": [
+    "AB positive",
+    "O negative",
+    "B negative",
+    "A positive"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is the closest star to Earth?",
+   "options": [
+    "Betelgeuse",
+    "Sirius",
+    "The Sun",
+    "Proxima Centauri"
+   ],
+   "answer": 2,
+   "note": "Light from the Sun takes about eight minutes to reach us."
+  },
+  {
+   "q": "What pigment makes plants green?",
+   "options": [
+    "Melanin",
+    "Chlorophyll",
+    "Carotene",
+    "Hemoglobin"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "How many hearts does an octopus have?",
+   "options": [
+    "Two",
+    "Eight",
+    "Three",
+    "One"
+   ],
+   "answer": 2,
+   "note": "Two pump blood through the gills and one serves the rest of the body."
+  },
+  {
+   "q": "What is the largest organ of the human body?",
+   "options": [
+    "Liver",
+    "Small intestine",
+    "Lungs",
+    "Skin"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "What force keeps the planets in orbit around the Sun?",
+   "options": [
+    "Static electricity",
+    "Gravity",
+    "Friction",
+    "Magnetism"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is the chemical formula for water?",
+   "options": [
+    "HO2",
+    "H2O2",
+    "H2O",
+    "OH"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What type of animal is a Komodo dragon?",
+   "options": [
+    "Snake",
+    "Salamander",
+    "Crocodile",
+    "Lizard"
+   ],
+   "answer": 3,
+   "note": "It is the largest living lizard."
+  },
+  {
+   "q": "Which planet has the shortest year?",
+   "options": [
+    "Earth",
+    "Mercury",
+    "Venus",
+    "Mars"
+   ],
+   "answer": 1,
+   "note": "Mercury orbits the Sun in about 88 Earth days."
+  },
+  {
+   "q": "How many chambers does the human heart have?",
+   "options": [
+    "Five",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "What is the study of weather called?",
+   "options": [
+    "Ecology",
+    "Cartography",
+    "Meteorology",
+    "Geology"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "Which metal is liquid at typical room temperature?",
+   "options": [
+    "Lead",
+    "Copper",
+    "Mercury",
+    "Aluminum"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What is the hardest substance in the human body?",
+   "options": [
+    "Femur",
+    "Fingernails",
+    "Skull",
+    "Tooth enamel"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "On which continent is the Sahara Desert?",
+   "options": [
+    "Africa",
+    "Asia",
+    "Australia",
+    "South America"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What is the smallest country in the world by area?",
+   "options": [
+    "Vatican City",
+    "Liechtenstein",
+    "Monaco",
+    "San Marino"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What is the capital of Japan?",
+   "options": [
+    "Nagoya",
+    "Tokyo",
+    "Kyoto",
+    "Osaka"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Which river runs through London?",
+   "options": [
+    "The Liffey",
+    "The Thames",
+    "The Danube",
+    "The Seine"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "In which country is Mount Kilimanjaro?",
+   "options": [
+    "Ethiopia",
+    "Kenya",
+    "Uganda",
+    "Tanzania"
+   ],
+   "answer": 3,
+   "note": "It is the highest mountain in Africa."
+  },
+  {
+   "q": "What is the largest desert in the world, counting polar deserts?",
+   "options": [
+    "Antarctic Desert",
+    "Arabian",
+    "Sahara",
+    "Gobi"
+   ],
+   "answer": 0,
+   "note": "Deserts are defined by low precipitation, not heat."
+  },
+  {
+   "q": "In which country is the city of Marrakech?",
+   "options": [
+    "Egypt",
+    "Morocco",
+    "Algeria",
+    "Tunisia"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is the longest mountain range on land?",
+   "options": [
+    "The Alps",
+    "The Rockies",
+    "The Himalayas",
+    "The Andes"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "Which US state has the longest coastline?",
+   "options": [
+    "California",
+    "Alaska",
+    "Hawaii",
+    "Florida"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is the capital of Brazil?",
+   "options": [
+    "Sao Paulo",
+    "Brasilia",
+    "Rio de Janeiro",
+    "Salvador"
+   ],
+   "answer": 1,
+   "note": "Brasilia was purpose-built and opened in 1960."
+  },
+  {
+   "q": "Lake Baikal, the deepest lake in the world, is in which country?",
+   "options": [
+    "Canada",
+    "Mongolia",
+    "Kazakhstan",
+    "Russia"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "Which two countries share the longest international land border?",
+   "options": [
+    "Canada and the United States",
+    "Russia and China",
+    "India and Bangladesh",
+    "Argentina and Chile"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "Which strait separates Europe from Africa at the western end of the Mediterranean?",
+   "options": [
+    "Strait of Gibraltar",
+    "Bosphorus",
+    "Strait of Hormuz",
+    "Strait of Dover"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "Who was the first President of the United States?",
+   "options": [
+    "Thomas Jefferson",
+    "John Adams",
+    "Benjamin Franklin",
+    "George Washington"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "In what year did the Berlin Wall fall?",
+   "options": [
+    "1991",
+    "1989",
+    "1985",
+    "1979"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Which of the Seven Wonders of the Ancient World stood at Alexandria?",
+   "options": [
+    "The Mausoleum",
+    "The Hanging Gardens",
+    "The Colossus",
+    "The Lighthouse (Pharos)"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "Who was the first woman to fly solo across the Atlantic Ocean?",
+   "options": [
+    "Amelia Earhart",
+    "Harriet Quimby",
+    "Bessie Coleman",
+    "Jacqueline Cochran"
+   ],
+   "answer": 0,
+   "note": "She did it in 1932."
+  },
+  {
+   "q": "The Renaissance began in which country?",
+   "options": [
+    "Spain",
+    "France",
+    "Italy",
+    "England"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "Which civilization built Machu Picchu?",
+   "options": [
+    "The Aztec",
+    "The Olmec",
+    "The Inca",
+    "The Maya"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "In what year did World War II end?",
+   "options": [
+    "1944",
+    "1946",
+    "1945",
+    "1943"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+   "options": [
+    "The Santa Maria",
+    "The Beagle",
+    "The Mayflower",
+    "The Endeavour"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "Who was the principal author of the Declaration of Independence?",
+   "options": [
+    "Thomas Jefferson",
+    "John Adams",
+    "Benjamin Franklin",
+    "James Madison"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "In which year was the Great Fire of London?",
+   "options": [
+    "1766",
+    "1066",
+    "1566",
+    "1666"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "What does USB stand for?",
+   "options": [
+    "Universal Serial Bus",
+    "Unified Standard Bus",
+    "Universal System Block",
+    "User Serial Bridge"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What does HTML stand for?",
+   "options": [
+    "HyperText Markup Language",
+    "HyperTransfer Markup Language",
+    "Home Tool Markup Language",
+    "High Text Machine Language"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What does DNS do?",
+   "options": [
+    "Translates domain names to IP addresses",
+    "Blocks viruses",
+    "Encrypts email",
+    "Compresses images"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What is the binary number 101 in decimal?",
+   "options": [
+    "10",
+    "6",
+    "5",
+    "3"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What does VPN stand for?",
+   "options": [
+    "Virtual Packet Node",
+    "Verified Public Network",
+    "Virtual Private Network",
+    "Very Protected Node"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "In cybersecurity, what does MFA stand for?",
+   "options": [
+    "Master File Archive",
+    "Multi-Function Adapter",
+    "Multi-Factor Authentication",
+    "Managed Firewall Access"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What does SaaS stand for?",
+   "options": [
+    "Software as a Service",
+    "Storage as a Service",
+    "Software and a System",
+    "System as a Server"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "Which of these is a version control system?",
+   "options": [
+    "Docker",
+    "Jira",
+    "Slack",
+    "Git"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "What does NIST stand for?",
+   "options": [
+    "National Institute of Standards and Technology",
+    "National Information Security Team",
+    "National Internet Standards Task Force",
+    "Network Integrity Standards Testing"
+   ],
+   "answer": 0,
+   "note": "NIST publishes many of the security frameworks federal contractors follow."
+  },
+  {
+   "q": "In federal information handling, what does CUI stand for?",
+   "options": [
+    "Compliance Under Inspection",
+    "Controlled Unclassified Information",
+    "Classified Unrestricted Intelligence",
+    "Confidential User Information"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "In a contract, what does SOW stand for?",
+   "options": [
+    "Statement of Work",
+    "Scope of Warranty",
+    "Schedule of Work",
+    "Summary of Waivers"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What does GSA stand for in the federal government?",
+   "options": [
+    "General Services Administration",
+    "General Security Agency",
+    "Government Systems Authority",
+    "Global Supply Alliance"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "In federal contracting, what does IDIQ stand for?",
+   "options": [
+    "Indefinite Deliverable Inventory Quota",
+    "Initial Design, Initial Qualification",
+    "Integrated Delivery of Quality Indicators",
+    "Indefinite Delivery, Indefinite Quantity"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "What does CPARS stand for?",
+   "options": [
+    "Contract Past Award Review System",
+    "Customer Performance and Reporting Standard",
+    "Contracting Procurement Audit and Review Service",
+    "Contractor Performance Assessment Reporting System"
+   ],
+   "answer": 3,
+   "note": "CPARS ratings are a big part of past performance evaluations."
+  },
+  {
+   "q": "What is the main ingredient of traditional hummus?",
+   "options": [
+    "Black beans",
+    "Chickpeas",
+    "Peanuts",
+    "Lentils"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Which spice is generally the most expensive by weight?",
+   "options": [
+    "Paprika",
+    "Turmeric",
+    "Cinnamon",
+    "Saffron"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "Which Spanish dish is traditionally made with rice, saffron, and seafood or meat?",
+   "options": [
+    "Gazpacho",
+    "Tortilla espanola",
+    "Risotto",
+    "Paella"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "Kimchi is a staple of which country's cuisine?",
+   "options": [
+    "China",
+    "Vietnam",
+    "Japan",
+    "Korea"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "Couscous is made from which grain?",
+   "options": [
+    "Corn",
+    "Rice",
+    "Oats",
+    "Wheat (semolina)"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "In which country did tacos originate?",
+   "options": [
+    "Mexico",
+    "Cuba",
+    "Argentina",
+    "Spain"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What is a group of crows called?",
+   "options": [
+    "A murder",
+    "A parliament",
+    "A gaggle",
+    "A flock"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "Which mammal is capable of true flight?",
+   "options": [
+    "Flying squirrel",
+    "Sugar glider",
+    "Bat",
+    "Colugo"
+   ],
+   "answer": 2,
+   "note": "The others glide."
+  },
+  {
+   "q": "How many legs does a spider have?",
+   "options": [
+    "Eight",
+    "Ten",
+    "Six",
+    "Twelve"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What is the largest species of big cat?",
+   "options": [
+    "Jaguar",
+    "Tiger",
+    "Lion",
+    "Leopard"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "What is a baby kangaroo called?",
+   "options": [
+    "A pup",
+    "A kit",
+    "A joey",
+    "A cub"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "Which flightless bird lives in Antarctica?",
+   "options": [
+    "Emu",
+    "Penguin",
+    "Ostrich",
+    "Kiwi"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Who composed The Four Seasons?",
+   "options": [
+    "Johann Bach",
+    "Wolfgang Mozart",
+    "Ludwig Beethoven",
+    "Antonio Vivaldi"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "What is the main language spoken in Brazil?",
+   "options": [
+    "Italian",
+    "Portuguese",
+    "French",
+    "Spanish"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Who wrote Pride and Prejudice?",
+   "options": [
+    "Charlotte Bronte",
+    "Jane Austen",
+    "George Eliot",
+    "Mary Shelley"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Who painted The Starry Night?",
+   "options": [
+    "Vincent van Gogh",
+    "Claude Monet",
+    "Salvador Dali",
+    "Pablo Picasso"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "How many rings are on the Olympic flag?",
+   "options": [
+    "Six",
+    "Five",
+    "Seven",
+    "Four"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "How many points is a touchdown worth in American football before the extra point?",
+   "options": [
+    "Seven",
+    "Six",
+    "Five",
+    "Three"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "In tennis, what is a score of zero called?",
+   "options": [
+    "Zero",
+    "Duck",
+    "Love",
+    "Nil"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "How long is an Olympic swimming pool?",
+   "options": [
+    "100 meters",
+    "75 meters",
+    "50 meters",
+    "25 meters"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What is the value of pi rounded to two decimal places?",
+   "options": [
+    "3.12",
+    "3.14",
+    "3.16",
+    "3.41"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "How many degrees are in a right angle?",
+   "options": [
+    "60",
+    "180",
+    "45",
+    "90"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "What is the square root of 144?",
+   "options": [
+    "16",
+    "11",
+    "12",
+    "14"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "How many seconds are in an hour?",
+   "options": [
+    "3,600",
+    "360",
+    "6,000",
+    "1,440"
+   ],
+   "answer": 0,
+   "note": ""
+  },
+  {
+   "q": "What is the next prime number after 7?",
+   "options": [
+    "9",
+    "8",
+    "11",
+    "13"
+   ],
+   "answer": 2,
+   "note": ""
+  },
+  {
+   "q": "What is the Roman numeral for 50?",
+   "options": [
+    "D",
+    "C",
+    "X",
+    "L"
+   ],
+   "answer": 3,
+   "note": ""
+  },
+  {
+   "q": "Which month has the fewest days?",
+   "options": [
+    "June",
+    "February",
+    "September",
+    "April"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "How many sides does an octagon have?",
+   "options": [
+    "Six",
+    "Eight",
+    "Seven",
+    "Nine"
+   ],
+   "answer": 1,
+   "note": ""
+  },
+  {
+   "q": "Which planet has the most moons as of recent counts?",
+   "options": [
+    "Uranus",
+    "Jupiter",
+    "Neptune",
+    "Saturn"
+   ],
+   "answer": 3,
+   "note": "Saturn passed 140 confirmed moons."
+  },
+  {
+   "q": "How many bones are in the adult human body?",
+   "options": [
+    "256",
+    "212",
+    "206",
+    "186"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is the largest ocean on Earth?",
+   "options": [
+    "Atlantic",
+    "Arctic",
+    "Indian",
+    "Pacific"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is the hardest natural substance?",
+   "options": [
+    "Quartz",
+    "Topaz",
+    "Diamond",
+    "Steel"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is the speed of light, roughly?",
+   "options": [
+    "30,000 km per second",
+    "3,000 km per second",
+    "3 million km per second",
+    "300,000 km per second"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which element has the atomic number 1?",
+   "options": [
+    "Helium",
+    "Oxygen",
+    "Lithium",
+    "Hydrogen"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is the boiling point of water at sea level in Fahrenheit?",
+   "options": [
+    "180",
+    "100",
+    "212",
+    "250"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which blood type is the universal donor for red cells?",
+   "options": [
+    "AB positive",
+    "B negative",
+    "O negative",
+    "A positive"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What part of the cell contains DNA in humans?",
+   "options": [
+    "Nucleus",
+    "Golgi body",
+    "Ribosome",
+    "Membrane"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What force keeps planets in orbit around the Sun?",
+   "options": [
+    "Friction",
+    "Inertia alone",
+    "Gravity",
+    "Magnetism"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which vitamin does sunlight help your body make?",
+   "options": [
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin K",
+    "Vitamin D"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is the tallest mountain above sea level?",
+   "options": [
+    "Denali",
+    "Kilimanjaro",
+    "K2",
+    "Mount Everest"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which is the longest river in South America?",
+   "options": [
+    "Magdalena",
+    "Orinoco",
+    "Amazon",
+    "Paraná"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which country has the most time zones, counting territories?",
+   "options": [
+    "United States",
+    "China",
+    "Russia",
+    "France"
+   ],
+   "answer": 3,
+   "note": "Overseas territories give France 12 or more."
+  },
+  {
+   "q": "Which desert is the largest hot desert?",
+   "options": [
+    "Sahara",
+    "Gobi",
+    "Arabian",
+    "Kalahari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which US state has the most coastline?",
+   "options": [
+    "Hawaii",
+    "Alaska",
+    "California",
+    "Florida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which two countries share the longest international border?",
+   "options": [
+    "Russia and China",
+    "India and Pakistan",
+    "Argentina and Chile",
+    "Canada and the United States"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mount Fuji is in which country?",
+   "options": [
+    "China",
+    "Nepal",
+    "Japan",
+    "South Korea"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is the largest island in the world?",
+   "options": [
+    "New Guinea",
+    "Madagascar",
+    "Borneo",
+    "Greenland"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which US state is the Grand Canyon in?",
+   "options": [
+    "Arizona",
+    "Utah",
+    "Nevada",
+    "Colorado"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is the capital of South Korea?",
+   "options": [
+    "Seoul",
+    "Incheon",
+    "Pyongyang",
+    "Busan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which continent has the most countries?",
+   "options": [
+    "Africa",
+    "South America",
+    "Europe",
+    "Asia"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which ancient wonder was located in Alexandria?",
+   "options": [
+    "Hanging Gardens",
+    "Temple of Artemis",
+    "Colossus",
+    "The Lighthouse (Pharos)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Who wrote the Declaration of Independence's first draft?",
+   "options": [
+    "James Madison",
+    "Alexander Hamilton",
+    "Thomas Jefferson",
+    "John Hancock"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In which year did the Titanic sink?",
+   "options": [
+    "1920",
+    "1912",
+    "1905",
+    "1898"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which empire built Machu Picchu?",
+   "options": [
+    "Aztec",
+    "Olmec",
+    "Inca",
+    "Maya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Who was the first person to walk on the Moon?",
+   "options": [
+    "John Glenn",
+    "Yuri Gagarin",
+    "Buzz Aldrin",
+    "Neil Armstrong"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The Magna Carta was signed in which century?",
+   "options": [
+    "11th",
+    "17th",
+    "13th",
+    "15th"
+   ],
+   "answer": 2,
+   "note": "1215."
+  },
+  {
+   "q": "Which US President appears on the $5 bill?",
+   "options": [
+    "Ulysses Grant",
+    "Alexander Hamilton",
+    "Abraham Lincoln",
+    "Andrew Jackson"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What year did World War II end?",
+   "options": [
+    "1945",
+    "1943",
+    "1946",
+    "1944"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which civilization built the pyramids of Giza?",
+   "options": [
+    "Greeks",
+    "Ancient Egyptians",
+    "Mesopotamians",
+    "Romans"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which author wrote 'Pride and Prejudice'?",
+   "options": [
+    "Jane Austen",
+    "George Eliot",
+    "Mary Shelley",
+    "Charlotte Brontë"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Who wrote 'Romeo and Juliet'?",
+   "options": [
+    "William Shakespeare",
+    "Christopher Marlowe",
+    "Charles Dickens",
+    "John Milton"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which composer wrote the Ninth Symphony with 'Ode to Joy'?",
+   "options": [
+    "Mozart",
+    "Brahms",
+    "Beethoven",
+    "Bach"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In which city is the Louvre?",
+   "options": [
+    "Rome",
+    "London",
+    "Paris",
+    "Madrid"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which artist painted 'The Starry Night'?",
+   "options": [
+    "Claude Monet",
+    "Pablo Picasso",
+    "Paul Cézanne",
+    "Vincent van Gogh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which instrument has 88 keys?",
+   "options": [
+    "Organ",
+    "Piano",
+    "Accordion",
+    "Harp"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Who wrote '1984'?",
+   "options": [
+    "George Orwell",
+    "Ray Bradbury",
+    "Aldous Huxley",
+    "H. G. Wells"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which company created the Java programming language?",
+   "options": [
+    "Microsoft",
+    "Sun Microsystems",
+    "IBM",
+    "Netscape"
+   ],
+   "answer": 1,
+   "note": "Oracle acquired Sun in 2010."
+  },
+  {
+   "q": "What does AI stand for in tech?",
+   "options": [
+    "Algorithmic Integration",
+    "Automated Interface",
+    "Applied Internet",
+    "Artificial Intelligence"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "In computing, what does RAM stand for?",
+   "options": [
+    "Run All Memory",
+    "Rapid Active Memory",
+    "Random Access Memory",
+    "Read Access Module"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What does the 'S' in HTTPS stand for?",
+   "options": [
+    "Standard",
+    "Server",
+    "Secure",
+    "Static"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which language is primarily used to style web pages?",
+   "options": [
+    "Rust",
+    "SQL",
+    "PHP",
+    "CSS"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What does SQL stand for?",
+   "options": [
+    "Standard Queue Language",
+    "Structured Query Language",
+    "Sequential Query List",
+    "Simple Question Logic"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the name of the open-source operating system kernel created by Linus Torvalds?",
+   "options": [
+    "Unix",
+    "Linux",
+    "Minix",
+    "Darwin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What does 'cloud computing' mostly mean?",
+   "options": [
+    "Wireless-only networking",
+    "Using remote servers over the internet",
+    "Storing data on tape",
+    "Weather forecasting software"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What does RFP stand for?",
+   "options": [
+    "Review for Procurement",
+    "Request for Pricing",
+    "Required Federal Paperwork",
+    "Request for Proposal"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What does SAM.gov manage?",
+   "options": [
+    "Social security records",
+    "Tax filings",
+    "Contractor registration and opportunities",
+    "Passport renewals"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What does CMMC stand for?",
+   "options": [
+    "Cyber Mission Management Cycle",
+    "Cybersecurity Maturity Model Certification",
+    "Common Military Management Code",
+    "Contract Monitoring and Mission Control"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What does ATO stand for in federal IT?",
+   "options": [
+    "Approval to Obligate",
+    "Audit Trail Output",
+    "Agency Tracking Order",
+    "Authority to Operate"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What does FedRAMP standardize?",
+   "options": [
+    "Facility access",
+    "Employee payroll",
+    "Travel booking",
+    "Cloud security assessment"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is a 'T&M' contract?",
+   "options": [
+    "Terms and Milestones",
+    "Technical and Managerial",
+    "Task and Measure",
+    "Time and Materials"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What does FFP stand for in contract types?",
+   "options": [
+    "Firm Fixed Price",
+    "Flexible Fixed Plan",
+    "Final Fee Payment",
+    "Federal Funding Program"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does COTS stand for?",
+   "options": [
+    "Commercial Off-The-Shelf",
+    "Certified Operational Test Suite",
+    "Common Open Technology Standard",
+    "Contractor Owned Technical Systems"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does SOW stand for?",
+   "options": [
+    "System of Workflows",
+    "Statement of Work",
+    "Summary of Wages",
+    "Scope of Writing"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the name of the nine-digit-style identifier federal contractors get, now replaced by the UEI?",
+   "options": [
+    "DUNS number",
+    "TIN",
+    "EIN",
+    "CAGE code"
+   ],
+   "answer": 0,
+   "note": "SAM.gov moved to the Unique Entity ID in 2022."
+  },
+  {
+   "q": "What does DevSecOps add to DevOps?",
+   "options": [
+    "Security built into the pipeline",
+    "More meetings",
+    "Manual approvals only",
+    "Hardware procurement"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which Nintendo console introduced the Joy-Con controllers?",
+   "options": [
+    "Wii U",
+    "GameCube",
+    "3DS",
+    "Switch"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is the name of the princess Mario usually rescues?",
+   "options": [
+    "Zelda",
+    "Rosalina",
+    "Daisy",
+    "Peach"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "In 'The Legend of Zelda', what is the name of the main hero?",
+   "options": [
+    "Epona",
+    "Link",
+    "Ganon",
+    "Zelda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which Pokémon is number 25 in the Pokédex?",
+   "options": [
+    "Raichu",
+    "Jigglypuff",
+    "Eevee",
+    "Pikachu"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is the best-selling video game of all time?",
+   "options": [
+    "Wii Sports",
+    "GTA V",
+    "Minecraft",
+    "Tetris"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In Mario Kart, what item makes you invincible for a short time?",
+   "options": [
+    "Mushroom",
+    "Blooper",
+    "Super Star",
+    "Banana"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which company makes the PlayStation?",
+   "options": [
+    "Sony",
+    "Microsoft",
+    "Nintendo",
+    "Sega"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In Super Smash Bros., which character has a Final Smash called Landmaster?",
+   "options": [
+    "Captain Falcon",
+    "Fox",
+    "Samus",
+    "Falco"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What year was the Nintendo Switch released?",
+   "options": [
+    "2019",
+    "2015",
+    "2017",
+    "2016"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In Luigi's Mansion, which professor builds Luigi's ghost-catching gadgets?",
+   "options": [
+    "Dr. Mario",
+    "Professor Oak",
+    "Professor E. Gadd",
+    "Dr. Eggman"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In Animal Crossing, what currency do you pay off your home loan with?",
+   "options": [
+    "Gil",
+    "Coins",
+    "Rupees",
+    "Bells"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which game features a battle royale of squids and inklings?",
+   "options": [
+    "Splatoon",
+    "Overwatch",
+    "Fortnite",
+    "Apex Legends"
+   ],
+   "answer": 0,
+   "note": "Inklings fight with ink, not bullets."
+  },
+  {
+   "q": "In Tetris, how many blocks make up each piece?",
+   "options": [
+    "Three",
+    "Four",
+    "Five",
+    "Six"
+   ],
+   "answer": 1,
+   "note": "They are called tetrominoes."
+  },
+  {
+   "q": "What color is Sonic the Hedgehog?",
+   "options": [
+    "Green",
+    "Red",
+    "Yellow",
+    "Blue"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which movie features a character named Woody?",
+   "options": [
+    "Cars",
+    "Shrek",
+    "Toy Story",
+    "Up"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Who directed 'Jurassic Park'?",
+   "options": [
+    "George Lucas",
+    "Ridley Scott",
+    "Steven Spielberg",
+    "James Cameron"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In 'Star Wars', who is Luke Skywalker's father?",
+   "options": [
+    "Emperor Palpatine",
+    "Darth Vader",
+    "Han Solo",
+    "Obi-Wan Kenobi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the name of the wizard school in 'Harry Potter'?",
+   "options": [
+    "Ilvermorny",
+    "Hogwarts",
+    "Beauxbatons",
+    "Durmstrang"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which band performed 'Bohemian Rhapsody'?",
+   "options": [
+    "Led Zeppelin",
+    "Pink Floyd",
+    "The Beatles",
+    "Queen"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which TV show features the Dunder Mifflin paper company?",
+   "options": [
+    "Parks and Recreation",
+    "Superstore",
+    "Community",
+    "The Office"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Who sings 'Shake It Off'?",
+   "options": [
+    "Taylor Swift",
+    "Adele",
+    "Katy Perry",
+    "Rihanna"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In which sport would you perform a slam dunk?",
+   "options": [
+    "Tennis",
+    "Basketball",
+    "Baseball",
+    "Volleyball"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How many players are on the field per side in soccer?",
+   "options": [
+    "10",
+    "11",
+    "12",
+    "9"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which country hosted the 2016 Summer Olympics?",
+   "options": [
+    "Brazil",
+    "Greece",
+    "China",
+    "United Kingdom"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In golf, what is one stroke under par called?",
+   "options": [
+    "Birdie",
+    "Albatross",
+    "Eagle",
+    "Bogey"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which sport uses a shuttlecock?",
+   "options": [
+    "Tennis",
+    "Table tennis",
+    "Badminton",
+    "Squash"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "In baseball, how many strikes make an out?",
+   "options": [
+    "Five",
+    "Four",
+    "Three",
+    "Two"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is the national sport of Japan, often considered?",
+   "options": [
+    "Judo",
+    "Baseball",
+    "Sumo",
+    "Karate"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is 12 squared?",
+   "options": [
+    "124",
+    "144",
+    "132",
+    "154"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the square root of 81?",
+   "options": [
+    "8",
+    "11",
+    "7",
+    "9"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Roman numeral for 50?",
+   "options": [
+    "X",
+    "D",
+    "L",
+    "C"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is the value of pi to two decimal places?",
+   "options": [
+    "3.41",
+    "3.14",
+    "3.16",
+    "3.12"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which food is known to be the main ingredient in guacamole?",
+   "options": [
+    "Cucumber",
+    "Avocado",
+    "Pea",
+    "Tomato"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which country is sushi most associated with?",
+   "options": [
+    "Korea",
+    "Thailand",
+    "China",
+    "Japan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is the main ingredient in traditional hummus?",
+   "options": [
+    "Peanuts",
+    "Lentils",
+    "Chickpeas",
+    "Black beans"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which spice comes from the Crocus flower?",
+   "options": [
+    "Saffron",
+    "Turmeric",
+    "Cumin",
+    "Paprika"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What type of pasta is shaped like little bow ties?",
+   "options": [
+    "Farfalle",
+    "Orzo",
+    "Rotini",
+    "Penne"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which nut is used to make marzipan?",
+   "options": [
+    "Cashew",
+    "Almond",
+    "Walnut",
+    "Pecan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which fruit is dried to make raisins?",
+   "options": [
+    "Figs",
+    "Cherries",
+    "Plums",
+    "Grapes"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which animal is the fastest on land?",
+   "options": [
+    "Greyhound",
+    "Lion",
+    "Cheetah",
+    "Pronghorn"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is the largest mammal?",
+   "options": [
+    "Sperm whale",
+    "African elephant",
+    "Giraffe",
+    "Blue whale"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which bird is known for not being able to fly and living in Antarctica?",
+   "options": [
+    "Puffin",
+    "Albatross",
+    "Penguin",
+    "Skua"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What do you call a baby kangaroo?",
+   "options": [
+    "Cub",
+    "Joey",
+    "Kit",
+    "Pup"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which animal has the longest neck?",
+   "options": [
+    "Llama",
+    "Giraffe",
+    "Ostrich",
+    "Horse only"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How long is a marathon?",
+   "options": [
+    "30 miles",
+    "26.2 miles",
+    "20 miles",
+    "24 miles"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which fabric comes from silkworms?",
+   "options": [
+    "Linen",
+    "Wool",
+    "Cotton",
+    "Silk"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is the currency of the United Kingdom?",
+   "options": [
+    "Franc",
+    "Pound sterling",
+    "Euro",
+    "Dollar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "How many minutes are in a full day?",
+   "options": [
+    "1,000",
+    "1,200",
+    "1,440",
+    "1,640"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What color do you get by mixing blue and yellow?",
+   "options": [
+    "Purple",
+    "Green",
+    "Orange",
+    "Brown"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which element is liquid at room temperature and used in old thermometers?",
+   "options": [
+    "Iron",
+    "Lead",
+    "Zinc",
+    "Mercury"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is the main language of Brazil?",
+   "options": [
+    "Spanish",
+    "English",
+    "Portuguese",
+    "French"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which US city is known as the Motor City?",
+   "options": [
+    "Pittsburgh",
+    "Chicago",
+    "Detroit",
+    "Cleveland"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which of the Great Lakes is entirely within the United States?",
+   "options": [
+    "Lake Michigan",
+    "Lake Ontario",
+    "Lake Erie",
+    "Lake Superior"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is the Mackinac Bridge's nickname?",
+   "options": [
+    "Big Mack",
+    "Mighty Mac",
+    "Straits Giant",
+    "Mac Bridge"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the capital of Michigan?",
+   "options": [
+    "Detroit",
+    "Grand Rapids",
+    "Ann Arbor",
+    "Lansing"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which state is known as the Peach State?",
+   "options": [
+    "Alabama",
+    "Florida",
+    "South Carolina",
+    "Georgia"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which US state has the most national parks?",
+   "options": [
+    "Alaska",
+    "Utah",
+    "California",
+    "Colorado"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "What is the capital of Texas?",
+   "options": [
+    "San Antonio",
+    "Austin",
+    "Dallas",
+    "Houston"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the capital of Virginia?",
+   "options": [
+    "Arlington",
+    "Alexandria",
+    "Richmond",
+    "Norfolk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which US city hosts the Pentagon, just across the river from DC?",
+   "options": [
+    "Reston",
+    "Fairfax",
+    "Alexandria",
+    "Arlington"
+   ],
+   "answer": 3
+  }
+ ]
+}
