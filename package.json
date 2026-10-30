@@ -1,0 +1,1 @@
+{ "name": "beast-den", "version": "1.0.0", "private": true, "description": "Self-hosted virtual clubhouse for remote teams. Zero dependencies.", "scripts": { "start": "node server.js" }, "engines": { "node": ">=18" } }
