@@ -1,0 +1,674 @@
+[
+[
+"Eiffel Tower",
+"Paris, France",
+48.8584,
+2.2945
+],
+[
+"Colosseum",
+"Rome, Italy",
+41.8902,
+12.4922
+],
+[
+"Taj Mahal",
+"Agra, India",
+27.1751,
+78.0421
+],
+[
+"Sydney Opera House",
+"Sydney, Australia",
+-33.8568,
+151.2153
+],
+[
+"Machu Picchu",
+"Machu Picchu, Peru",
+-13.1631,
+-72.545
+],
+[
+"Grand Canyon",
+"Grand Canyon, Arizona, USA",
+36.1069,
+-112.1129
+],
+[
+"Mount Fuji",
+"Mount Fuji, Japan",
+35.3606,
+138.7274
+],
+[
+"Christ the Redeemer (statue)",
+"Rio de Janeiro, Brazil",
+-22.9519,
+-43.2105
+],
+[
+"Statue of Liberty",
+"New York City, USA",
+40.6892,
+-74.0445
+],
+[
+"Big Ben",
+"London, United Kingdom",
+51.5007,
+-0.1246
+],
+[
+"Giza pyramid complex",
+"Giza, Egypt",
+29.9792,
+31.1342
+],
+[
+"Santorini",
+"Santorini, Greece",
+36.3932,
+25.4615
+],
+[
+"Matterhorn",
+"Zermatt, Switzerland",
+45.9763,
+7.6586
+],
+[
+"Petra",
+"Petra, Jordan",
+30.3285,
+35.4444
+],
+[
+"Angkor Wat",
+"Angkor Wat, Cambodia",
+13.4125,
+103.867
+],
+[
+"Table Mountain",
+"Cape Town, South Africa",
+-33.9628,
+18.4098
+],
+[
+"Golden Gate Bridge",
+"San Francisco, USA",
+37.8199,
+-122.4783
+],
+[
+"Niagara Falls",
+"Niagara Falls, Canada and USA",
+43.0828,
+-79.0742
+],
+[
+"Chichen Itza",
+"Chichén Itzá, Mexico",
+20.6843,
+-88.5678
+],
+[
+"Easter Island",
+"Easter Island, Chile",
+-27.1127,
+-109.3497
+],
+[
+"Stonehenge",
+"Stonehenge, United Kingdom",
+51.1789,
+-1.8262
+],
+[
+"Edinburgh Castle",
+"Edinburgh, Scotland",
+55.9486,
+-3.1999
+],
+[
+"Burj Khalifa",
+"Dubai, United Arab Emirates",
+25.1972,
+55.2744
+],
+[
+"Marina Bay Sands",
+"Singapore",
+1.2834,
+103.8607
+],
+[
+"Great Wall of China",
+"Great Wall, China",
+40.4319,
+116.5704
+],
+[
+"Hagia Sophia",
+"Istanbul, Turkey",
+41.0086,
+28.9802
+],
+[
+"Saint Basil's Cathedral",
+"Moscow, Russia",
+55.7525,
+37.6231
+],
+[
+"Sagrada Família",
+"Barcelona, Spain",
+41.4036,
+2.1744
+],
+[
+"Grand Canal (Venice)",
+"Venice, Italy",
+45.4408,
+12.3155
+],
+[
+"Brandenburg Gate",
+"Berlin, Germany",
+52.5163,
+13.3777
+],
+[
+"Acropolis of Athens",
+"Athens, Greece",
+37.9715,
+23.7257
+],
+[
+"Mount Kilimanjaro",
+"Mount Kilimanjaro, Tanzania",
+-3.0674,
+37.3556
+],
+[
+"Victoria Falls",
+"Victoria Falls, Zambia and Zimbabwe",
+-17.9243,
+25.8572
+],
+[
+"Uluru",
+"Uluru, Australia",
+-25.3444,
+131.0369
+],
+[
+"Milford Sound",
+"Milford Sound, New Zealand",
+-44.6414,
+167.8974
+],
+[
+"Hallstatt",
+"Hallstatt, Austria",
+47.5622,
+13.6493
+],
+[
+"Neuschwanstein Castle",
+"Neuschwanstein, Germany",
+47.5576,
+10.7498
+],
+[
+"Mont-Saint-Michel",
+"Mont-Saint-Michel, France",
+48.636,
+-1.5115
+],
+[
+"Plitvice Lakes National Park",
+"Plitvice Lakes, Croatia",
+44.8654,
+15.582
+],
+[
+"Lake Louise (Alberta)",
+"Lake Louise, Canada",
+51.4254,
+-116.1773
+],
+[
+"Yosemite Valley",
+"Yosemite, California, USA",
+37.7456,
+-119.5936
+],
+[
+"Old Faithful",
+"Yellowstone, USA",
+44.4605,
+-110.8281
+],
+[
+"Mount Rushmore",
+"Mount Rushmore, South Dakota, USA",
+43.8791,
+-103.4591
+],
+[
+"Space Needle",
+"Seattle, USA",
+47.6205,
+-122.3493
+],
+[
+"Lincoln Memorial",
+"Washington, DC, USA",
+38.8893,
+-77.0502
+],
+[
+"Washington Monument",
+"Washington, DC, USA",
+38.8895,
+-77.0353
+],
+[
+"Renaissance Center",
+"Detroit, Michigan, USA",
+42.329,
+-83.0394
+],
+[
+"Mackinac Bridge",
+"Mackinac Bridge, Michigan, USA",
+45.8174,
+-84.7278
+],
+[
+"Iguazú Falls",
+"Iguazú Falls, Argentina and Brazil",
+-25.6953,
+-54.4367
+],
+[
+"Torres del Paine National Park",
+"Torres del Paine, Chile",
+-50.9423,
+-73.4068
+],
+[
+"Salar de Uyuni",
+"Salar de Uyuni, Bolivia",
+-20.1338,
+-67.4891
+],
+[
+"Ha Long Bay",
+"Ha Long Bay, Vietnam",
+20.9101,
+107.1839
+],
+[
+"Forbidden City",
+"Beijing, China",
+39.9163,
+116.3972
+],
+[
+"Petronas Towers",
+"Kuala Lumpur, Malaysia",
+3.1579,
+101.7116
+],
+[
+"Dubrovnik",
+"Dubrovnik, Croatia",
+42.6507,
+18.0944
+],
+[
+"Charles Bridge",
+"Prague, Czech Republic",
+50.0865,
+14.4114
+],
+[
+"Geirangerfjord",
+"Geirangerfjord, Norway",
+62.1049,
+7.2059
+],
+[
+"Cliffs of Moher",
+"Cliffs of Moher, Ireland",
+52.9715,
+-9.4309
+],
+[
+"Giant's Causeway",
+"Giant's Causeway, Northern Ireland",
+55.2408,
+-6.5116
+],
+[
+"Cappadocia",
+"Cappadocia, Turkey",
+38.6431,
+34.8289
+],
+[
+"Pamukkale",
+"Pamukkale, Turkey",
+37.9203,
+29.1211
+],
+[
+"Wadi Rum",
+"Wadi Rum, Jordan",
+29.5759,
+35.4199
+],
+[
+"Sigiriya",
+"Sigiriya, Sri Lanka",
+7.957,
+80.7603
+],
+[
+"Bagan",
+"Bagan, Myanmar",
+21.1717,
+94.8585
+],
+[
+"Bora Bora",
+"Bora Bora, French Polynesia",
+-16.5004,
+-151.7415
+],
+[
+"Antarctica",
+"Antarctica",
+-77.8419,
+166.6863
+],
+[
+"Leaning Tower of Pisa",
+"Pisa, Italy",
+43.723,
+10.3966
+],
+[
+"Florence Cathedral",
+"Florence, Italy",
+43.7731,
+11.256
+],
+[
+"Louvre",
+"Paris, France",
+48.8606,
+2.3376
+],
+[
+"Tower Bridge",
+"London, United Kingdom",
+51.5055,
+-0.0754
+],
+[
+"Palace of Versailles",
+"Versailles, France",
+48.8049,
+2.1204
+],
+[
+"Alhambra",
+"Granada, Spain",
+37.176,
+-3.5881
+],
+[
+"Meteora",
+"Meteora, Greece",
+39.7217,
+21.6306
+],
+[
+"Sultan Ahmed Mosque",
+"Istanbul, Turkey",
+41.0054,
+28.9768
+],
+[
+"Paro Taktsang",
+"Paro, Bhutan",
+27.4919,
+89.3637
+],
+[
+"Borobudur",
+"Borobudur, Indonesia",
+-7.6079,
+110.2038
+],
+[
+"Wat Arun",
+"Bangkok, Thailand",
+13.7437,
+100.4888
+],
+[
+"Shwedagon Pagoda",
+"Yangon, Myanmar",
+16.7983,
+96.1495
+],
+[
+"Himeji Castle",
+"Himeji, Japan",
+34.8394,
+134.6939
+],
+[
+"Fushimi Inari-taisha",
+"Kyoto, Japan",
+34.9671,
+135.7727
+],
+[
+"Gyeongbokgung",
+"Seoul, South Korea",
+37.5796,
+126.977
+],
+[
+"Hoover Dam",
+"Hoover Dam, Nevada and Arizona, USA",
+36.0161,
+-114.7377
+],
+[
+"Arches National Park",
+"Arches National Park, Utah, USA",
+38.7331,
+-109.5925
+],
+[
+"Zion National Park",
+"Zion National Park, Utah, USA",
+37.2982,
+-113.0263
+],
+[
+"Monument Valley",
+"Monument Valley, Arizona and Utah, USA",
+36.998,
+-110.0985
+],
+[
+"Antelope Canyon",
+"Page, Arizona, USA",
+36.8619,
+-111.3743
+],
+[
+"Glacier National Park (U.S.)",
+"Glacier National Park, Montana, USA",
+48.7596,
+-113.787
+],
+[
+"Denali",
+"Denali, Alaska, USA",
+63.0692,
+-151.007
+],
+[
+"Sugarloaf Mountain (Rio de Janeiro)",
+"Rio de Janeiro, Brazil",
+-22.949,
+-43.1565
+],
+[
+"Perito Moreno Glacier",
+"Perito Moreno Glacier, Argentina",
+-50.4967,
+-73.1377
+],
+[
+"Angel Falls",
+"Angel Falls, Venezuela",
+5.9701,
+-62.5362
+],
+[
+"Lake Titicaca",
+"Lake Titicaca, Peru and Bolivia",
+-15.8402,
+-69.3333
+],
+[
+"Abu Simbel temples",
+"Abu Simbel, Egypt",
+22.3372,
+31.6258
+],
+[
+"Karnak",
+"Luxor, Egypt",
+25.7188,
+32.6573
+],
+[
+"Ngorongoro Conservation Area",
+"Ngorongoro Crater, Tanzania",
+-3.1618,
+35.5878
+],
+[
+"Chefchaouen",
+"Chefchaouen, Morocco",
+35.1688,
+-5.2636
+],
+[
+"Okavango Delta",
+"Okavango Delta, Botswana",
+-19.2833,
+22.9
+],
+[
+"Sossusvlei",
+"Sossusvlei, Namibia",
+-24.7275,
+15.2916
+],
+[
+"Twelve Apostles (Victoria)",
+"Great Ocean Road, Australia",
+-38.6656,
+143.1047
+],
+[
+"Bondi Beach",
+"Bondi Beach, Australia",
+-33.8915,
+151.2767
+],
+[
+"Aoraki / Mount Cook",
+"Mount Cook, New Zealand",
+-43.595,
+170.1418
+],
+[
+"Hobbiton Movie Set",
+"Matamata, New Zealand",
+-37.8722,
+175.6832
+],
+[
+"Mount Everest",
+"Mount Everest, Nepal and Tibet",
+27.9881,
+86.925
+],
+[
+"Dolomites",
+"Dolomites, Italy",
+46.4102,
+11.844
+],
+[
+"Lofoten",
+"Lofoten, Norway",
+68.2094,
+13.6126
+],
+[
+"Faroe Islands",
+"Faroe Islands",
+62.0,
+-6.8
+],
+[
+"Cinque Terre",
+"Cinque Terre, Italy",
+44.1272,
+9.7108
+],
+[
+"Lake Como",
+"Lake Como, Italy",
+45.987,
+9.2572
+],
+[
+"Amalfi Coast",
+"Amalfi Coast, Italy",
+40.634,
+14.6026
+],
+[
+"Black Forest",
+"Black Forest, Germany",
+48.0,
+8.2
+],
+[
+"Atomium",
+"Brussels, Belgium",
+50.8949,
+4.3415
+],
+[
+"Little Mermaid statue",
+"Copenhagen, Denmark",
+55.6929,
+12.5993
+]
+]
